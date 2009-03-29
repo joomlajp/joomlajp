@@ -10,5 +10,3 @@ TortoiseSVNを使ってTortoiseSVNでチェックアウトする方法
 
   * まず[http://tortoisesvn.net/downloads こちら]からTortoiseSVNをダウンロードください。
 　*  [http://kawa.at.webry.info/200801/article_5.html Google Codeでホスティング＋TortoiseSVNの使い方]と題したとてもわかりやすい解説BLOGがありましたので参考にしてください。
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
