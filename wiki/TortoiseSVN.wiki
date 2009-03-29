@@ -1,14 +1,14 @@
 #labels TortoiseSVN,チェックアウト
 #このページのサマリー
 
-= Introduction =
+= 紹介 =
 
 TortoiseSVNを使ってTortoiseSVNでチェックアウトする方法
 
 
-= Details =
+= 詳細 =
 
   * まず[http://tortoisesvn.net/downloads こちら]からTortoiseSVNをダウンロードください。
-　* [http://kawa.at.webry.info/200801/article_5.html Google Code でホスティング＋TortoiseSVN の使い方]と題したとてもわかりやすい解説BLOGがありましたので参考にしてください。
+　*  [http://kawa.at.webry.info/200801/article_5.html Google Code でホスティング＋TortoiseSVN の使い方]と題したとてもわかりやすい解説BLOGがありましたので参考にしてください。
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
