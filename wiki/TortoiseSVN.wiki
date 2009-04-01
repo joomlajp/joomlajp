@@ -1,6 +1,4 @@
 #labels TortoiseSVN,チェックアウト
-#このページのサマリー
-
 = 紹介 =
 
 TortoiseSVNを使ってTortoiseSVNでチェックアウトする方法
@@ -8,5 +6,8 @@ TortoiseSVNを使ってTortoiseSVNでチェックアウトする方法
 
 = 詳細 =
 
-  * まず[http://tortoisesvn.net/downloads こちら]からTortoiseSVNをダウンロードください。
-　*  [http://kawa.at.webry.info/200801/article_5.html Google Codeでホスティング＋TortoiseSVNの使い方]と題したとてもわかりやすい解説BLOGがありましたので参考にしてください。
+ * まず[http://tortoisesvn.net/downloads こちら]からTortoiseSVNをダウンロードください。
+ * [http://kawa.at.webry.info/200801/article_5.html Google Codeでホスティング＋TortoiseSVNの使い方]と題したとてもわかりやすい解説BLOGがありましたので参考にしてください。
+ * 各自PC内に任意のフォルダ名で場所を作り、フォルダ名を右クリックメニューから *SVN Checkout* を選択します。
+ * Google Code のレポジトリ URLは　https://joomlajp.googlecode.com/svn/trunk/
+ * パスワードは http://code.google.com/hosting/settings を参照。
