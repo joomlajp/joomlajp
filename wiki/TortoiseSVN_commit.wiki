@@ -1,0 +1,9 @@
+#labels TortoiseSVN,コミット
+= 概要 =
+
+TortoiseSVN でコミット時に自動でバージョン番号付与
+
+= 詳細 =
+
+ファイルに自動的にリビジョン番号、日時、ユーザ名を追加することができます。
+* [http://se-suganuma.blogspot.com/2009/01/subversiontortoisesvn.html 【Subversion】TortoiseSVNでコミット時に自動でバージョン番号付与] のページが参考になります。
