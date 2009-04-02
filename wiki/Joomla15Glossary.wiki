@@ -1,0 +1,196 @@
+= Joomla! 1.5 Glossary A to Z =
+
+Joomla! 1.5 Glossaryをまとめます。
+
+
+= A =
+
+  * Access Control Level (ACL) >>
+  * Admin Template >>
+  * Administrator >>
+  * Administrator Back-end >>
+  * Alias >> エイリアス
+  * alt attribute >>
+  * Apache >>
+  * API >>
+  * Archive >> アーカイブ
+  * Article >>
+  * Author >>
+
+= B =
+
+  * Back-end >>
+  * Banner >> バナー
+  * Blog >> ブログ
+  * Browser >> ブラウザ
+
+= C =
+
+  * Cascading Style Sheet (CSS) >>
+  * Category >> カテゴリ
+  * Category Manager >>
+  * Category Title >>
+  * Check Out (an item) >>
+  * Check-in (an item) >>
+  * Client >>
+  * Client-side Scripting >>
+  * CMT >>
+  * CMTP >>
+  * Component >>
+  * Configuration File >>
+  * Content >>
+  * Content Management System (CMS) >>
+  * Control Panel >>
+  * Core >>
+
+= D =
+
+  * Database >>
+  * Disable >>
+  * Document Object Model (DOM) >>
+  * DOMIT >>
+  * Dynamic HTML (DHTML) >>
+
+= E =
+
+  * Editor >>
+  * Enable >>
+  * Extension >>
+
+= F =
+
+  * FOSS >>
+  * Front-end (Site Front-end) >>
+  * Front Page >>
+  * FTP >>
+
+= G =
+
+  * Global Check-in >>
+  * Global Configuration >>
+  * GPL >>
+  * Group >>
+
+= H =
+
+  * HTML >>
+
+= I =
+
+  * Image tag >>
+  * Intro Text >>
+  * Installer >>
+  * Item >>
+
+= J =
+
+  * JavaScript >>
+  * Joomla! >>
+
+= K =
+
+  * Keyword >>
+
+= L =
+
+  * Language >>
+
+= M =
+
+  * Main Body >>
+  * Main Text >>
+  * Manager >>
+  * Mass Mail >>
+  * Media File >>
+  * Media Manager >>
+  * Metadata >>
+  * Metadata Author >>
+  * Metadata Description >>
+  * Metadata Key Words >>
+  * Module >>
+  * Module Position >>
+  * MooTools >>
+  * MySQL >>
+
+= N =
+
+  * News Feed >>
+
+= O =
+
+  * Open Source (OS) >>
+  * Operating System (OS) >>
+
+= P =
+
+  * pagebreak >>
+  * pagination >>
+  * Parameter >>
+  * patTemplate >>
+  * PHP >>
+  * Plugin >>
+  * Poll >>
+  * Preview >>
+  * Project >>
+  * Publish(ed) >>
+  * Publisher >>
+
+= Q =
+
+= R =
+
+  * Record >>
+  * Registered User >>
+  * RSS >>
+
+= S =
+
+  * Server-side Scripting >>
+  * Section >>
+  * SEF >>
+  * SEO >>
+  * Site Front-end >>
+  * Site Template >>
+  * SQL >>
+  * Super Administrator >>
+  * Syndication >>
+
+= T =
+
+  * Template >>
+  * Third Party Developer >>
+  * Title >>
+  * Title Alias >>
+  * Translation >>
+  * Translation Partner >>
+
+= U =
+
+  * Uncategorized Article >>
+  * Unpublish(ed) >>
+  * URL >>
+  * URI >>
+
+= V =
+
+
+= W =
+
+  * Web Links >>
+  * Workspace >>
+  * Wrapper >>
+  * WYSIWYG Editor >>
+
+= X =
+
+  * XML >>
+  * XHTML >>
+
+= Y =
+
+
+= Z =
+
+  * Zlib >>
+  * ZIP >>
+  
