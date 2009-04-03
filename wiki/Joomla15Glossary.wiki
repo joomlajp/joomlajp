@@ -163,6 +163,7 @@ Joomla! 1.5 Glossaryをまとめています。
 == T ==
 
   * Template >>
+  * Temp >> Temp
   * Third Party Developer >>
   * Title >>
   * Title Alias >>
