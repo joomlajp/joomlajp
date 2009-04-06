@@ -158,6 +158,7 @@ Joomla! 1.5 Glossaryをまとめています。
   * Site Template >>
   * SQL >>
   * Super Administrator >>
+  * Sufix >> サフィックス
   * Syndication >>
 
 == T ==
