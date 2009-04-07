@@ -152,12 +152,12 @@ Joomla! 1.5 Glossaryをまとめています。
 
   * Server-side Scripting >>
   * Section >> セクション
-  * SEF >>
-  * SEO >>
-  * Site Front-end >>
-  * Site Template >>
+  * SEF >> SEF
+  * SEO >> SEO
+  * Site Front-end >> サイトフロントエンド
+  * Site Template >> サイトテンプレート
   * SQL >> SQL
-  * Super Administrator >>
+  * Super Administrator >> サイト管理者
   * Sufix >> サフィックス
   * Syndication >>
 
