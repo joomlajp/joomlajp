@@ -50,51 +50,51 @@ Joomla! 1.5 Glossaryをまとめています。
 
 == D ==
 
-  * Database >>
-  * Disable >>
+  * Database >> データベース
+  * Disable >> 
   * Document Object Model (DOM) >>
   * DOMIT >>
   * Dynamic HTML (DHTML) >>
 
 == E ==
 
-  * Editor >>
-  * Enable >>
-  * Extension >>
+  * Editor >> エディタ
+  * Enable >> 有効
+  * Extension >> エクステンション
 
 == F ==
 
   * FOSS >>
   * Front-end (Site Front-end) >>
   * Front Page >>
-  * FTP >>
+  * FTP >> FTP
 
 == G ==
 
   * Global Check-in >>
   * Global Configuration >>
-  * GPL >>
-  * Group >>
+  * GPL >> GPL
+  * Group >> グループ
 
 == H ==
 
-  * HTML >>
+  * HTML >> HTML
 
 == I ==
 
   * Image tag >>
   * Intro Text >>
-  * Installer >>
-  * Item >>
+  * Installer >> インストーラ
+  * Item >> アイテム
 
 == J ==
 
-  * JavaScript >>
-  * Joomla! >>
+  * JavaScript >> JavaScript
+  * Joomla! >> Joomla!
 
 == K ==
 
-  * Keyword >>
+  * Keyword >> キーワード
 
 == L ==
 
@@ -112,10 +112,10 @@ Joomla! 1.5 Glossaryをまとめています。
   * Metadata Author >>
   * Metadata Description >>
   * Metadata Key Words >>
-  * Module >>
-  * Module Position >>
+  * Module >> モジュール
+  * Module Position >> モジュールポジション
   * MooTools >>
-  * MySQL >>
+  * MySQL >> MySQL
 
 == N ==
 
@@ -123,7 +123,7 @@ Joomla! 1.5 Glossaryをまとめています。
 
 == O ==
 
-  * Open Source (OS) >>
+  * Open Source (OS) >> オープンソース(OS)
   * Operating System (OS) >>
 
 == P ==
@@ -132,42 +132,42 @@ Joomla! 1.5 Glossaryをまとめています。
   * pagination >>
   * Parameter >>
   * patTemplate >>
-  * PHP >>
-  * Plugin >>
+  * PHP >> PHP
+  * Plugin >> プラグイン
   * Poll >>
-  * Preview >>
-  * Project >>
-  * Publish(ed) >>
-  * Publisher >>
+  * Preview >> プレビュー
+  * Project >> プロジェクト
+  * Publish(ed) >> 公開
+  * Publisher >> 公開者
 
 == Q ==
 
 == R ==
 
   * Record >>
-  * Registered User >>
+  * Registered User >> 登録ユーザ
   * RSS >>
 
 == S ==
 
   * Server-side Scripting >>
-  * Section >>
+  * Section >> セクション
   * SEF >>
   * SEO >>
   * Site Front-end >>
   * Site Template >>
-  * SQL >>
+  * SQL >> SQL
   * Super Administrator >>
   * Sufix >> サフィックス
   * Syndication >>
 
 == T ==
 
-  * Template >>
+  * Template >> テンプレート
   * Temp >> Temp
   * Third Party Developer >>
-  * Title >>
-  * Title Alias >>
+  * Title >> タイトル
+  * Title Alias >> タイトルエイリアス
   * Translation >>
   * Translation Partner >>
 
@@ -175,8 +175,8 @@ Joomla! 1.5 Glossaryをまとめています。
 
   * Uncategorized Article >>
   * Unpublish(ed) >>
-  * URL >>
-  * URI >>
+  * URL >> URL
+  * URI >> URI
 
 == V ==
 
@@ -185,13 +185,13 @@ Joomla! 1.5 Glossaryをまとめています。
 
   * Web Links >>
   * Workspace >>
-  * Wrapper >>
+  * Wrapper >> ラッパー
   * WYSIWYG Editor >>
 
 == X ==
 
-  * XML >>
-  * XHTML >>
+  * XML >> XML
+  * XHTML >> XHTML
 
 == Y ==
 
