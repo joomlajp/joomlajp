@@ -1,3 +1,4 @@
+#labels TinyMCE,plugin
 = TinyMCE plugin =
 == ieSpell plugin ==
 IE(Internet Explorer)専用のプラグインでJoomla!1.5.10時点ではボタンが表示されていないが、以下のような例で表示させることができる。
