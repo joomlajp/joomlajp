@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <localise version="1.5" client="installation" >
-    <forceLang></forceLang>
-    <helpurl></helpurl>
+    <forceLang>ja-JP</forceLang>
+    <helpurl>http://help.joomla.jp</helpurl>
+   	<debug>0</debug>
     <params/>
 </localise>
