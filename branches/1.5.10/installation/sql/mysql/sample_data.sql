@@ -476,8 +476,8 @@ REPLACE INTO `#__content` (`id`, `title`, `alias`, `title_alias`, `introtext`, `
 (43, 'サンプルページとメニューリンク', 'example-pages-and-menu-links', '', '<p> このページは <em>未分類</em>の記事サンプルです。この記事アイテムは どんなセクションやカテゴリにも属していません。 左側のコラム新しいメニューが表示されているのがわかるでしょう。  それは同じ内容へのリンクですがレイアウトの違う4つのページにリンクされています。</p> <ul> <li> ブログセクション</li> <li> テーブルセクション</li> <li>  ブログカテゴリ</li> <li> テーブルカテゴリ</li> </ul> <p> Joomla!のデフォルトサンプルインストールではすべて異なった内容へリンクされています。 <strong> サンプルページ</strong>メニューで利用できるオプションを確認してください。 </p><p> これはコンポーネントと個々の記事アイテムが含まれます。これらのリンクはメニューアイテムタイプ(コンポーネントによって違う)が<strong> <font face="courier new,courier"> メニュー->[メニュー名]->メニューアイテム管理</font> </strong> から設定できます。</p>', '', 1, 0, 0, 0, '2006-10-12 09:26:52', 62, '', '2009-04-07 05:54:09', 62, 0, '0000-00-00 00:00:00', '2006-10-11 10:00:00', '0000-00-00 00:00:00', '', '', 'show_title=\nlink_titles=\nshow_intro=\nshow_section=\nlink_section=\nshow_category=\nlink_category=\nshow_vote=\nshow_author=\nshow_create_date=\nshow_modify_date=\nshow_pdf_icon=\nshow_print_icon=\nshow_email_icon=\nlanguage=\nkeyref=\nreadmore=', 10, 0, 1, 'Uncategorized,Uncategorized,Example Pages and Menu Links', '', 0, 745, 'robots=\nauthor=');
 
 REPLACE INTO `#__menu_types` (`id`, `menutype`, `title`, `description`) VALUES
-(2, 'usermenu', 'User Menu', 'A Menu for logged in Users'),
-(3, 'topmenu', 'Top Menu', 'Top level navigation'),
-(4, 'othermenu', 'Resources', 'Additional links'),
-(5, 'ExamplePages', 'Example Pages', 'Example Pages'),
-(6, 'keyconcepts', 'Key Concepts', 'This describes some critical information for new Users.');
+(2, 'ユーザメニュー', 'User Menu', 'A Menu for logged in Users'),
+(3, 'トップメニュー', 'Top Menu', 'Top level navigation'),
+(4, 'その他のメニュー', 'Resources', 'Additional links'),
+(5, 'サンプルページ', 'Example Pages', 'Example Pages'),
+(6, 'キーコンセプト', 'Key Concepts', 'This describes some critical information for new Users.');
