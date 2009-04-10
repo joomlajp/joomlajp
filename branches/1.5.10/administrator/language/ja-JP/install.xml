@@ -1,6 +1,5 @@
-Taka
 <?xml version="1.0" encoding="utf-8"?>
-<install version="1.5"  client="administrator" type="language">
+<install version="1.5"  client="administrator" type="language" method="upgrade">
 	<name>Japanese(JP)</name>
 	<tag>ja-JP</tag>
 	<version>1.5.10</version>
