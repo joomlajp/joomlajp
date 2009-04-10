@@ -1,0 +1,210 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+Joomla! Project Translation and Localization Policy
+Preamble
+
+ 
+
+The vision of the Joomla Project includes "people around the world using their preferred languages." Translation of the language in the Joomla core files, the help screens and documentation along with other tasks such as working with the Development Team to meet the needs of diverse language communities all help to achieve this. This Translation and Localization Policy is intended to embody that vision while creating a worldwide community that is rewarding and enjoyable to participate in and that maintains the trust of its users. It builds on the core values of the Project which are: freedom, equality, trust, community, collaboration and usability.
+
+ 
+==Translation and Localization Policy==
+
+Only Joomla Translation Teams will have their work listed on Joomla.org and related sites and hosted on the Joomla Translation Common Repository.
+
+The Joomla Translation Team Agreement sets the terms for being accepted and continuing as a Joomla Translation Team. The decision to accept or continue recognition of a Joomla Translation Team is taken by the Joomla Translation Coordination Team which is composed of volunteer members drawn from the current local translation coordinators. The Joomla Translation Coordination Team works under the general oversight of the Joomla Core Team.
+
+The Joomla Translation Team Agreement is considered accepted when the local Translation Coordinator is granted access to the Joomla Translation Team Forum.
+
+By accepting this Joomla Translation Team Agreement, you agree that breaking of any of the terms will lead to the agreement being cancelled. This means:
+The Translation Team will be removed from the Joomla Translation Team Forum
+All listings on Joomla.org and related sites will be removed.
+You will no longer be entitled to use the badge or refer to your team as a Joomla Translation Team.
+
+ 
+Joomla! Translation Team Agreement
+Terms and Conditions for acceptance as a Joomla Translation Team
+Copies of all language packs, sample data, and help files shall be deposited on the Joomla Translation Common Repository that the Joomla Translation Coordination Team will manage on Joomlacode.org. All language packs will be available for public download. Joomla Translation Teams are encouraged to live up to the core Joomla Project values of freedom and equality as embodied in the GNU GPL by making their help files and sample data publicly available for download just as the works they are derived from are available.
+All members of Joomla Translation Teams shall follow the Code of Conduct for Joomla Volunteers at all times.
+Within specific languages, a spirit of collaboration shall be maintained. If there is already a Joomla Translation Team for a given language, new contributors and teams should seek to cooperate with that team. Existing Joomla Translation Teams must welcome and encourage new contributors.
+Translation teams shall remain in contact with the Joomla Translation Coordination Team.
+All Translators shall comply with the Open Source Matters trademark policies on name use, logo use, and domain names (See: http://www.opensourcematters.org/licensing.html) and any other relevant policies.
+In accepting a Joomla Translation Team for a particular language the Joomla Project does not accept any social, cultural or political claims associated with that language or reject the claims of any other language.
+All use of the Joomla Translation Team badge shall comply with the translation badge use policy (below) and the Open Source Matters policy for conditional use logos (link).
+Language packs shall be released under the GNU GPL v2 or later and be distributed at no cost to end users and without requiring registration.
+All language packs shall be named: "[ISO name of language]_joomla_lang_[type of package].[joomla version][Eventual pack version]" where:
+[Iso name of language] = xx-XX
+[type of package]. = site, admin, full
+[Eventual pack version] = v2, v3, etc.
+example: xx-XX_joomla_lang_full.1.5.8v2.zip
+Language packs shall be kept up to date with the current releases of Joomla.
+Online help files shall be reachable through Joomla administrator interface and must be available via the Web at no cost to end users. Help files must be licensed using the Joomla Electronic Documentation License and retain all licensing information.
+Online help files shall be kept up to date with the current releases of Joomla.
+Localized distributions shall not include advertising or links for any site other than Joomla.org sites, the Joomla Translation Team site or sites that are included in the core sample data. The sole exception to this is that a links to English resources or content in translations of the core sample data may be replaced with links to specific equivalent content in the relevant language. These may not be in the form of a general link to a local site.
+Localized distributions may include specially created sample data as long as the tone and messages of the sample data are in accord with the Joomla Project's mission, vision and values and are not detrimental, e.g., harmful or damaging to the value of any of the Joomla Marks, or to the Joomla Project or OSM, its brand integrity, reputation or goodwill, such as by including content that (a) is vulgar, obscene, pornographic, disparaging, defamatory or hateful, (b) includes statements concerning that are libelous, slanderous or otherwise defamatory, or (c) would be considered a criminal offense or would encourage conduct that would be considered a criminal offense or create any civil liability. Requests for modification of sample content made by Open Source Matters must be addressed within five business days.
+Localized sample content may include menu links to specific relevant resources in the translation language. It shall include a menu link to Joomla.org.
+Localized distributions shall be released at no cost to end users and without requiring registration.
+Localized distributions shall be named: "Joomla [version #] in X" where X is the official English name of the language corresponding to the ISO code. For example: en-US would be "Joomla 1.5.9 in English (United States)"
+Localized distributions shall be kept up to date with the current releases of Joomla. When releases reach end of life on Joomlacode.org they shall no longer be available on Joomla Translation Team sites.
+These terms may be changed by the Joomla Project from time to time. Notification of changes will be published in the Joomla Translation Teams Forum and policies will be posted on the opensourcematters.org Web site.
+Badge Use Policy
+
+Joomla Translation Teams may use the Joomla Translation Team badge on their Web sites under certain conditions. These are:
+The site is non commercial.
+The site complies with all relevant Open Source Matters policies.
+The badge must be linked to http://community.joomla.org/translations.html.
+The site makes it clear that it is not an official site of the Joomla Project.
+The badge is not altered in any way.
+Licenses
+Translation of the language in the core files ("language packs" and "sample data") are derivative works and must be licensed using the GNU GPL.
+Translations of the installation files that are contributed for release in the official Joomla core release are derivative works and must be provided under GNU GPL. Copyrights are both Open Source Matters and author's. This work is acknowledged in the main credit file of the Joomla CMS. The XML file for the installation may contain author's name and URL. The description should only contain the name of the language in English or local language.
+Help screen translations for Joomla 1.5.x and later are governed by the Joomla Electronic Documentation license unless otherwise specified. The license terms and the original copyright attribution must remain unchanged. Translator attribution may be added per screen or globally on the site where the help screens are available online. A link to the JEDL has to be provided on the site.
+Documentation translations made from the docs.joomla.org English originals are governed by the Joomla Electronic Documentation License unless otherwise specified. Translators may add their authorship. Link to the JEDL should be provided on the site.
+The following statement must be presented with any localized distribution: "This is an unofficial localized distribution of Joomla. Support of this distribution is only available from the team that created it. It is not warranted by the Joomla Project or Open Source Matters."
+
+ 
+==Open Source Matters Policies==
+
+As the non-profit organization that holds the assets of the Joomla Project for the benefit of the Joomla Project and community of users, Open Source Matters has a number of policies that govern use of the Joomla name and logo, and the licensing of Joomla software, and other legal and financial issues. A complete set of these policies ins available at http://opensourcematters.org. It is the responsibility of Joomla Translation Teams to be familar with and comply with all OSM policies
+
+Some of the policies that are relevant for Joomla Translation Teams are:
+All use of the Joomla logo must be licensed by OSM.
+All use of the string Joomla in a domain name must be licensed by OSM.
+Use of the Joomla name or closely related names in business or extension names must be licensed by OSM.
+License to use the name or logo requires agreement to several points including (but not limited to):
+Acknowledgement that the trademark for Joomla is exclusively held by Open Source Matters.
+Agreement that all Joomla extensions distributed from a licensed site will comply with all Joomla Extensions Directory policies and requirements.
+Agreement to certain standards of quality such as not containing material that could be the cause of civic or criminal legal action.
+Display of a standard disclaimer similar to:
+"The Joomla® name is used under limited license from Open Source Matters the worldwide trademark holder. The views opinions presented on this site do not represent the official views of the Joomla Project or of Open Source Matters."
+The first prominent use of the Joomla name should include the trademark(™) or registered trademark (®) symbol.
+The site logo or name must be larger than the badge or any other logo use.
+All software distributed from the site complies with current Joomla Extensions Directory policies for distribution.
+
+ 
+==FAQs==
+
+Are all Joomla Translation Teams required to have their own Web sites?
+
+No. A translator can simply contribute files to the Joomla Translation Common Repository.
+
+Can a commercial company also be a Joomla Translation Team?
+
+Yes. However a commercial company may not use the Joomla Translation Team badge in connection with its business and the listing of teams shall not include the URL of that site. If desired, the listing may include an e-mail address for contacting the team.
+
+Can a commercial company display the Joomla Translation Team badge on its Web site?
+
+No. The badge may only be displayed on noncommercial sites.
+
+I am the owner of a not-for-profit Joomla Translation Team site but I need to make also my living. Can I use using a part of the site for my business?
+
+No. You should have a separate site for your business, but you may place an advertisement for your business on your Joomla Translation Team site. If you have a forum, add a link to your for-profit site in your signature.
+
+Can there be paid advertising on a Joomla Translation Team Web site?
+
+Yes.
+
+Can I have advertisements for my business site on my Joomla Translation Team web site? 
+
+Yes.
+
+Can I have a menu link to my business on my Joomla Translation Team Web site?
+
+No.
+
+Can I call myself a "Joomla Translator" in my forum signature on forum.joomla.org?
+
+Members of Joomla Translation Teams can use the wording:
+
+"Member of the [language] Joomla Translation Team"
+You are also encouraged to add the URL of your Joomla Translation Team listing on community.org: http://community.joomla.org/translations.html
+
+ 
+
+Should I release a single pack for site and administrator translations?
+
+While not required, creating a single pack is for site and administration, including the pdf fonts if necessary, is strongly encouraged.
+
+Where can I find technical guidelines for translation of Joomla?
+
+Technical guidelines are available here:http://docs.joomla.org/Technical_Guidelines_for_Translation
+
+Do I have to be part of a Joomla Translation Team to create or distribute a Joomla translation?
+
+No. However, please note that all licensing, name use and other legal requirements apply whether or not your team is a Joomla Translation Team.
+
+Can the badge be used in printed materials?
+
+Yes, if the usage complies with the Open Source Matters conditional use policy rules for printed matter and the use is non-commercial.
+
+What is meant by "specific relevant resources in the translation language"?
+
+These are resources that provide useful information to users of the language in question.
+
+If we take the Norwegian distribution as an example (http://demo.joomlainorge.no/ ), there are a few added links under t.ex. the Recourses menu (Resurser) to help the users finding locale info and translations. This is added to the localized sample_data.sql. The first link goes to the main site of the local community site, where news and information is posted - http://www.joomlainorge.no/ This site is non commercial and has received domain name and other approvals from Open Source Matters.
+
+ 
+
+The second link goes to a subdomain, where all Norwegian language packs/files are hosted. These include both Joomla and Third-Party Developer files, some not available other places on the Web - http://filer.joomlainorge.no/
+
+Why must Language Packs be made available on joomlacode.org?
+
+Among other reasons, this will enable joomla.org to create a "Download Joomla in your Language" link that will be easy to use for users and easy access for webmasters who wish to create mutlilingual sites. As GNU GPL licensed code, Language Packs may also be made available on Joomla Translation Team and other sites.
+
+Why must copies of help screens and sample data be deposited in the Joomla Translation Common Repository on joomlacode.org?
+
+It is important for continuity and assurance of availability for users who depend upon these resources that copies of team work be stored in a central common repository.
+
+Why are teams strongly encouraged to make sample data and help files available for public download?
+
+Freedom, equality and collaboration are core values of the Joomla Project. One expression of these values is the use of the GNU GPL for licensing. Although the GNU GPL and the JEDL do not require distribution, they strongly value providing users with the ability to use, modify, study and share. They also do not distinguish between classes of users. All Joomla Translation Team members are encouraged to learn more about software freedom. Translators in this sense are encouraged to work under the same principles as developers and documentors who are part of the Joomla Project.
+
+Why does it say that the policy may be changed?
+
+Situations and needs of the Project and its community have changed in the past and will change in the future. As a result the Translation Policy, like all Project policies, may need to change. This statement ensures that notification is given to the entire community if the policy needs to change.
+
+What is the process for making changes in policies?
+
+The Joomla Project makes policies based on discussions with community members, Working Group members, team leads and coordinators, the Core Team, and the board of Open Source Matters as well as on the basis of legal and financial advice. Final policy decisions are made by the Core Team or the OSM board as appropriate.
+
+ 
+==Typical File Headers==
+
+See http://community.joomla.org/translations/typical-language-file-headers.html
+
+ 
+==Definitions==
+
+A translator is a translation team or individual that translates Joomla.
+
+A translation team is an individual or group which creates or maintains Joomla translations in a specific language.
+
+A Joomla Translation Team is a translation team that is represented in the Joomla Private Translation Forum.
+
+A Local Translation Coordinator is the representative of a Joomla Translation Team who participates in the Joomla Translation Team forum.
+
+A localized distribution is a distribution of Joomla that is preinstalled with a specific language package. It also may include sample content in that language and a link to online help in that language.
+
+The Joomla Translation Coordination Team manages the Joomla Translation Repository and the Joomla Translation Team Forum and coordinates translation related communication with other parts of the Joomla Project. It is a small group drawn from the Local Translation Coordinators.
+
+A Joomla translation team badge is an image file that may be used to identify a Joomla Translation Team if certain conditions are met.
+
+The Joomla Translation Teams Agreement defines the terms and conditions for acceptance as a Joomla Translation Team.
+
+A Joomla Translation Team web site is a site that distributes the work of a specific Joomla Translation Team (either exclusively or along with providing other information or services).
+
+The Joomla Translation Common Repository is the area on Joomlacode.org where Joomla Translation Teams deposit their work. It is managed by the Joomla Translation Coordination Team.
+
+The Joomla Translation Team Forum is a limited-access forum located on http://forum.joomla.org for use of Local Translation Coordinators.
