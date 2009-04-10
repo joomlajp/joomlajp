@@ -50,5 +50,5 @@ REPLACE `#__modules` VALUES (13, '管理サブメニュー','', 1,'submenu', 0,'
 REPLACE `#__modules` VALUES (14, 'ユーザステータス','', 1,'status', 0,'0000-00-00 00:00:00', 1,'mod_status', 0, 2, 1, '', 0, 1, '');
 REPLACE `#__modules` VALUES (15, 'タイトル','', 1,'title', 0,'0000-00-00 00:00:00', 1,'mod_title', 0, 2, 1, '', 0, 1, '');
 
-REPLACE INTO `#__menu_types` (`id`, `menutype`, `title`, `description`) VALUES
-(1, 'メインメニュー', 'Main Menu', 'The main menu for the site');
+REPLACE `#__menu_types` (`id`, `menutype`, `title`, `description`) VALUES
+(1, 'メインメニュー', 'Main Menu', 'このサイトのメインメニュー');
