@@ -49,3 +49,6 @@ REPLACE `#__modules` VALUES (12, '管理メニュー','', 1,'menu', 0,'0000-00-0
 REPLACE `#__modules` VALUES (13, '管理サブメニュー','', 1,'submenu', 0,'0000-00-00 00:00:00', 1,'mod_submenu', 0, 2, 1, '', 0, 1, '');
 REPLACE `#__modules` VALUES (14, 'ユーザステータス','', 1,'status', 0,'0000-00-00 00:00:00', 1,'mod_status', 0, 2, 1, '', 0, 1, '');
 REPLACE `#__modules` VALUES (15, 'タイトル','', 1,'title', 0,'0000-00-00 00:00:00', 1,'mod_title', 0, 2, 1, '', 0, 1, '');
+
+REPLACE INTO `#__menu_types` (`id`, `menutype`, `title`, `description`) VALUES
+(1, 'mainmenu', 'Main Menu', 'The main menu for the site');
