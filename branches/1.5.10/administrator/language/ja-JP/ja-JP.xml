@@ -6,15 +6,15 @@
 	<creationDate>2009/03/26</creationDate>
 	<author>Joomla! Japanese Translation Project</author>
 	<authorEmail>project@joomla.jp</authorEmail>
-	<authorUrl>www.joomla.org</authorUrl>
+	<authorUrl>www.joomla.jp</authorUrl>
 	<copyright>Copyright (C) 2005 - 2008 Open Source Matters. All rights reserved.</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-	<description>Japanese language file for frontend</description>
+	<description>Japanese language file for administrator</description>
 	<metadata>
 		<name>Japanese(JP)</name>
 		<tag>ja-JP</tag>
 		<rtl>0</rtl>
-		<locale>jpn_JP, ja_JP.UTF8, ja_JP, jpn, ja, Japanse_Japan, japanse, jp, JP, JA</locale>
+		<locale>ja_JP.UTF8, ja_JP, jpn, ja, Japanse_Japan, japanse, jp, JP, JA</locale>
 		<backwardLang>Japanese</backwardLang>
 		<winCodePage>SJIS</winCodePage>
 		<pdfFontName>sazanami-gothic</pdfFontName>
