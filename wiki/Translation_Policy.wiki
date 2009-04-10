@@ -81,91 +81,47 @@ Some of the policies that are relevant for Joomla Translation Teams are:
   * All software distributed from the site complies with current Joomla Extensions Directory policies for distribution.
  
 == FAQs ==
-_Are all Joomla Translation Teams required to have their own Web sites?_
-
 _すべてのJoomla翻訳チームは自身のWebサイトを持つ必要がありますか？_
-
-No. A translator can simply contribute files to the Joomla Translation Common Repository.
 
 いいえ。翻訳者は単にJoomlaの翻訳共通リポジトリにファイルを寄与することも可能です。
 
-_Can a commercial company also be a Joomla Translation Team?_
-
 _営利企業もまたJoomla 翻訳チームとなることができますか？_
-
-Yes. However a commercial company may not use the Joomla Translation Team badge in connection with its business and the listing of teams shall not include the URL of that site. If desired, the listing may include an e-mail address for contacting the team.
 
 はい。しかし、営利企業はビジネスに関連してJoommla翻訳チームのバッジを使用できないし、チームリストにはそのサイトのURLが含まれないかもしれません。もし希望するなら、リストにはそのチームへのコンタクト用のメールアドレスが載るでしょう。
 
-_Can a commercial company display the Joomla Translation Team badge on its Web site?_
-
 _営利企業は自身のWebサイトにJoomla翻訳チームのバッジを表示することができますか？_
-
-No. The badge may only be displayed on noncommercial sites.
 
 いいえ。バッジは非営利のサイトにのみ表示できます。
 
-_I am the owner of a not-for-profit Joomla Translation Team site but I need to make also my living. Can I use using a part of the site for my business?_
-
 _私は非営利のJoomla翻訳チームサイトのオーナーですが、私はまた、生活の資を得る必要があります。サイトの一部を私のビジネスに使うことができますか？_
-
-No. You should have a separate site for your business, but you may place an advertisement for your business on your Joomla Translation Team site. If you have a forum, add a link to your for-profit site in your signature.
 
 いいえ。あなたはサイトをあなたのビジネスと切り離さなくてはいけません。が、あなたはJoomla翻訳チームのサイトにあなたのビジネスの広告を設置することはできます。もしあなたがフォーラムを持っているなら、あなた名義の営利サイトへのリンクを追加してください。
 
-_Can there be paid advertising on a Joomla Translation Team Web site?_
-
 _Joomla翻訳チームのWebサイトに有料広告をおくことはできますか？_
 
-Yes.
-
 はい。
-
-_Can I have advertisements for my business site on my Joomla Translation Team web site?_
 
 _Joomla翻訳チームのWebサイトに私のビジネス・サイトの広告を設置することはできますか？_
 
-Yes.
-
 はい。
-
-_Can I have a menu link to my business on my Joomla Translation Team Web site?_
 
 _Joomla翻訳チームのWebサイトに私のビジネスへのメニューリンクを設置することができますか？_
 
-No.
-
 いいえ。
 
-_Can I call myself a "Joomla Translator" in my forum signature on forum.joomla.org?_
-
 _私は、forum.joomla.orgでの私のフォーラム署名において、自身を"Joomla翻訳者"と呼ぶことはできますか？_
-
-Members of Joomla Translation Teams can use the wording:
-"Member of the `[language]` Joomla Translation Team"
-You are also encouraged to add the URL of your Joomla Translation Team listing on community.org: http://community.joomla.org/translations.html
 
 Joomla翻訳チームのメンバーは以下の表現を使用できます：
 "Member of the `[language]` Joomla Translation Team"
 あなたはまたcommunity.orgに並ぶあなたのJoomla翻訳チームのURLを追加することが推奨されます：http://community.joomla.org/translations.html
 
-_Should I release a single pack for site and administrator translations?_
-
 _私はサイト用とアドミニストレータ用の翻訳を単一のパッケージとしてリリースするべきですか？_
-
-While not required, creating a single pack is for site and administration, including the pdf fonts if necessary, is strongly encouraged.
 
 必須ではありませんが、サイト用のアドミニストレータ用の単一のパッケージを作成することが、必要であればpdfのフォントも含めて、強く推奨されます。
 
-_Where can I find technical guidelines for translation of Joomla?_
-
 _どこでJoomlaの翻訳のための技術的なガイドラインを見つけることができますか？_
 
-Technical guidelines are available here:http://docs.joomla.org/Technical_Guidelines_for_Translation
-
 技術的なガイドラインはここで入手可能です：http://docs.joomla.org/Technical_Guidelines_for_Translation
-
-_Do I have to be part of a Joomla Translation Team to create or distribute a Joomla translation?_
 
 _Joomlaの翻訳を作成あるいは配布するためには、私はJoomla翻訳チームに参加しなくてはいけませんか？_
 
