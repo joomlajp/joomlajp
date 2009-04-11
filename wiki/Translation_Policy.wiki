@@ -1,4 +1,6 @@
 #labels Translation,Policy,localize,翻訳,ポリシー
+kura
+
 = 概要 =
 Joomla.orgによる<a href="http://community.joomla.org/translations/translation-policy.html">Translation and Localization Policy</a> の和訳です。
 
