@@ -1,28 +1,27 @@
 #labels Translation,Policy,localize,翻訳,ポリシー
-kura
-
 = 概要 =
 Joomla.orgによる<a href="http://community.joomla.org/translations/translation-policy.html">Translation and Localization Policy</a> の和訳です。
 
 原文は随時更新されるかもしれません、注意してください。
 ----
 
-= Translation and Localization Policy =
+= 「翻訳と地域化の指針」 =
 
-== Preamble ==
-The vision of the Joomla Project includes "people around the world using their preferred languages." Translation of the language in the Joomla core files, the help screens and documentation along with other tasks such as working with the Development Team to meet the needs of diverse language communities all help to achieve this. This Translation and Localization Policy is intended to embody that vision while creating a worldwide community that is rewarding and enjoyable to participate in and that maintains the trust of its users. It builds on the core values of the Project which are: freedom, equality, trust, community, collaboration and usability.
+== はじめに ==
+Joomlaプロジェクトのビジョンには、「それぞれの言語を使う世界中の人々」が含まれます。Joomlaのコアファイル、ヘルプスクリーン、ドキュメントの翻訳は、多言語対応のための開発チームとの連携などと共にこの目的を達するために役立ちます。この「翻訳と地域化の指針」は、参加するのにやりがいがあって楽しく、さらにユーザからの信頼を維持するための世界規模のコミュニティを創り、このビジョンを具体化するために作成されました。そのビジョンは、「自由、平等、信頼性、コミュニティ、協力、そして使いやすさ」というプロジェクトの核心的な価値観に基づいています。
 
-== Translation and Localization Policy ==
-Only Joomla Translation Teams will have their work listed on Joomla.org and related sites and hosted on the Joomla Translation Common Repository.
 
-The Joomla Translation Team Agreement sets the terms for being accepted and continuing as a Joomla Translation Team. The decision to accept or continue recognition of a Joomla Translation Team is taken by the Joomla Translation Coordination Team which is composed of volunteer members drawn from the current local translation coordinators. The Joomla Translation Coordination Team works under the general oversight of the Joomla Core Team.
+== 翻訳と地域化の指針 ==
+Joomla翻訳チームのみがその成果物をJoomla.orgと関連サイトに掲載し、Joomla翻訳共有リポジトリにホストされます。
 
-The Joomla Translation Team Agreement is considered accepted when the local Translation Coordinator is granted access to the Joomla Translation Team Forum.
+Joomla翻訳チームとしての承認と承認の継続は「Joomla翻訳チーム契約」によって規定されます。承認又は翻訳チームの継続の決断はJoomla翻訳コーディネーションチームによってなされ、そのチームは現行のローカル翻訳チームコーディネータから引き抜かれたボランティアメンバによって構成されます。Joomla翻訳コーディネーションチームはJoomlaコアチームの管理下で仕事を行います。
 
-By accepting this Joomla Translation Team Agreement, you agree that breaking of any of the terms will lead to the agreement being cancelled. This means:
-  * The Translation Team will be removed from the Joomla Translation Team Forum
-  * All listings on Joomla.org and related sites will be removed.
-  * You will no longer be entitled to use the badge or refer to your team as a Joomla Translation Team.
+地域の翻訳コーディネータがJoomla翻訳チームフォーラムへのアクセスを認められたときには、「Joomla翻訳チーム契約」に同意したとみなされます。
+
+「Joomla翻訳チーム契約」に同意することで、規約に違反したときはこの契約は取り消されることに同意したことになります。すなわち、
+  * その翻訳チームはJoomla翻訳チームフォーラムから除外されます。
+  * Joomla.orgと関連サイトの掲載は削除されます。
+  * バッジの使用やJoomla翻訳チームと名乗る権利を失います。
 
 == Joomla! Translation Team Agreement ==
 *Terms and Conditions for acceptance as a Joomla Translation Team*
