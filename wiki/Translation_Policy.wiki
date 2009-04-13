@@ -46,16 +46,16 @@ Joomla翻訳チームとしての承認と承認の継続は「Joomla翻訳チ�
   # ローカライズ版の配布は現在のJoomla!の最新リリース日を保持します。When releases reach end of life on Joomlacode.org they shall no longer be available on Joomla Translation Team sites.
   # These terms may be changed by the Joomla Project from time to time. Notification of changes will be published in the Joomla Translation Teams Forum and policies will be posted on the opensourcematters.org Web site.
 
-== Badge Use Policy ==
-Joomla Translation Teams may use the Joomla Translation Team badge on their Web sites under certain conditions. These are:
+== バッジ使用ポリシー ==
+Joomla翻訳チームは、一定の条件の下でのWebサイト上のJoomla翻訳チームのバッジを使用することがあります。:
 
-  # The site is non commercial.
-  # The site complies with all relevant Open Source Matters policies.
-  # The badge must be linked to http://community.joomla.org/translations.html.
-  # The site makes it clear that it is not an official site of the Joomla Project.
-  # The badge is not altered in any way.
+  # このサイトは商用サイトではありません。
+  # このサイトは関連するすべてのOpen Source Matters ポリシーを遵守します。
+  # バッジはhttp://community.joomla.org/translations.html にリンクしなければなりません。
+  # サイトはJoomlaプロジェクトの公式サイトではないことを明確にしなければなりません。
+  # バッジは何らかの形で変更してはいけません。
 
-== Licenses ==
+== ライセンス ==
   # Translation of the language in the core files ("language packs" and "sample data") are derivative works and must be licensed using the GNU GPL.
   # Translations of the installation files that are contributed for release in the official Joomla core release are derivative works and must be provided under GNU GPL. Copyrights are both Open Source Matters and author's. This work is acknowledged in the main credit file of the Joomla CMS. The XML file for the installation may contain author's name and URL. The description should only contain the name of the language in English or local language.
   # Help screen translations for Joomla 1.5.x and later are governed by the Joomla Electronic Documentation license unless otherwise specified. The license terms and the original copyright attribution must remain unchanged. Translator attribution may be added per screen or globally on the site where the help screens are available online. A link to the JEDL has to be provided on the site.
@@ -63,7 +63,7 @@ Joomla Translation Teams may use the Joomla Translation Team badge on their Web 
   # The following statement must be presented with any localized distribution: "This is an unofficial localized distribution of Joomla. Support of this distribution is only available from the team that created it. It is not warranted by the Joomla Project or Open Source Matters."
 
  
-== Open Source Matters Policies ==
+== Open Source Matters ポリシー ==
 As the non-profit organization that holds the assets of the Joomla Project for the benefit of the Joomla Project and community of users, Open Source Matters has a number of policies that govern use of the Joomla name and logo, and the licensing of Joomla software, and other legal and financial issues. A complete set of these policies ins available at http://opensourcematters.org. It is the responsibility of Joomla Translation Teams to be familar with and comply with all OSM policies
 
 Some of the policies that are relevant for Joomla Translation Teams are:
@@ -128,9 +128,9 @@ _Joomlaの翻訳を作成あるいは配布するためには、私はJoomla翻�
 
 No. However, please note that all licensing, name use and other legal requirements apply whether or not your team is a Joomla Translation Team.
 
-_Can the badge be used in printed materials?_
+_バッジを印刷物に使用することはできますか？_
 
-Yes, if the usage complies with the Open Source Matters conditional use policy rules for printed matter and the use is non-commercial.
+はい。if the usage complies with the Open Source Matters conditional use policy rules for printed matter and the use is non-commercial.
 
 _What is meant by "specific relevant resources in the translation language"?_
 
@@ -140,31 +140,31 @@ If we take the Norwegian distribution as an example (http://demo.joomlainorge.no
 
 The second link goes to a subdomain, where all Norwegian language packs/files are hosted. These include both Joomla and Third-Party Developer files, some not available other places on the Web - http://filer.joomlainorge.no/
 
-_Why must Language Packs be made available on joomlacode.org?_
+_なぜランゲージパックがjoomlacode.orgで利用できるようにする必要があるのですか?_
 
 Among other reasons, this will enable joomla.org to create a "Download Joomla in your Language" link that will be easy to use for users and easy access for webmasters who wish to create mutlilingual sites. As GNU GPL licensed code, Language Packs may also be made available on Joomla Translation Team and other sites.
 
-_Why must copies of help screens and sample data be deposited in the Joomla Translation Common Repository on joomlacode.org?_
+_どうしてヘルプ画面やサンプルデータのコピーがjoomlacode.orgのJoomla翻訳共通リポジトリで堆積しなければいけないのですか?_
 
 It is important for continuity and assurance of availability for users who depend upon these resources that copies of team work be stored in a central common repository.
 
-_Why are teams strongly encouraged to make sample data and help files available for public download?_
+_どうしてチームは公開ダウンロードのためのサンプルデータとヘルプファイルの作成を強く推奨されるのですか?_
 
 Freedom, equality and collaboration are core values of the Joomla Project. One expression of these values is the use of the GNU GPL for licensing. Although the GNU GPL and the JEDL do not require distribution, they strongly value providing users with the ability to use, modify, study and share. They also do not distinguish between classes of users. All Joomla Translation Team members are encouraged to learn more about software freedom. Translators in this sense are encouraged to work under the same principles as developers and documentors who are part of the Joomla Project.
 
-_Why does it say that the policy may be changed?_
+_どうしてポリシーが改変されるかもしれないのですか?_
 
 Situations and needs of the Project and its community have changed in the past and will change in the future. As a result the Translation Policy, like all Project policies, may need to change. This statement ensures that notification is given to the entire community if the policy needs to change.
 
-_What is the process for making changes in policies?_
+_ポリシーが改変にはどのようなプロセスを経ますか?_
 
 The Joomla Project makes policies based on discussions with community members, Working Group members, team leads and coordinators, the Core Team, and the board of Open Source Matters as well as on the basis of legal and financial advice. Final policy decisions are made by the Core Team or the OSM board as appropriate.
 
-== Typical File Headers ==
-See http://community.joomla.org/translations/typical-language-file-headers.html
+== 典型的なファイルヘッダ ==
+http://community.joomla.org/translations/typical-language-file-headers.html を参照
 
  
-== Definitions ==
+== 定義 ==
 A translator is a translation team or individual that translates Joomla.
 
 A translation team is an individual or group which creates or maintains Joomla translations in a specific language.
