@@ -23,16 +23,16 @@ Joomla翻訳チームとしての承認と承認の継続は「Joomla翻訳チ�
   * Joomla.orgと関連サイトの掲載は削除されます。
   * バッジの使用やJoomla翻訳チームと名乗る権利を失います。
 
-== Joomla! Translation Team Agreement ==
-*Terms and Conditions for acceptance as a Joomla Translation Team*
+== Joomla! 翻訳チーム契約書 ==
+*Joomla翻訳チームとして認定されるための利用規約*
 
-  # Copies of all language packs, sample data, and help files shall be deposited on the Joomla Translation Common Repository that the Joomla Translation Coordination Team will manage on Joomlacode.org. All language packs will be available for public download. Joomla Translation Teams are encouraged to live up to the core Joomla Project values of freedom and equality as embodied in the GNU GPL by making their help files and sample data publicly available for download just as the works they are derived from are available.
-  # All members of Joomla Translation Teams shall follow the Code of Conduct for Joomla Volunteers at all times.
-  # Within specific languages, a spirit of collaboration shall be maintained. If there is already a Joomla Translation Team for a given language, new contributors and teams should seek to cooperate with that team. Existing Joomla Translation Teams must welcome and encourage new contributors.
+  # すべてのランゲージパック、サンプルデータ、およびヘルプファイルのコピーはJoomla翻訳コーディネイトチームが管理するJoomlacode.orgのJoomla翻訳共通リポジトリ で堆積されるものとします。すべての言語パックは公開され、ダウンロードできるようになります。Joomla翻訳チームはダウンロードして利用されるヘルプファイルやサンプルデータの制作において、GNU GPLで具体化された自由と平等のコアJoomlaプロジェクトバリューに従って行動することが推奨されます。 
+  # Joomla翻訳チームメンバー全員、どんな時もJoomlaボランティア行動規範に従うものとします。
+  # 特定の言語で、協働の精神を維持するものとします。すでに指定したランゲージのJoomla翻訳チームがある場合、新たな貢献者とチームはそのチームに協力を求める必要があります。既存のJoomla翻訳チームは歓迎し、新しい貢献者を奨励しなければなりません。
   # 翻訳チームはJoomla翻訳コーディネイトチームと引き続き連絡を取り合います。
-  # All Translators shall comply with the Open Source Matters trademark policies on name use, logo use, and domain names (See: http://www.opensourcematters.org/licensing.html) and any other relevant policies.
-  # In accepting a Joomla Translation Team for a particular language the Joomla Project does not accept any social, cultural or political claims associated with that language or reject the claims of any other language.
-  # All use of the Joomla Translation Team badge shall comply with the translation badge use policy (below) and the Open Source Matters policy for conditional use logos (link).
+  # すべての翻訳者は　名前の使用、ロゴの使用、ドメイン名 (参照: http://www.opensourcematters.org/licensing.html) そしてその他の関連ポリシーでOpen Source Mattersトレードマークポリシーを厳守します。  
+  # 特定のランゲージのためのJoomla翻訳チームとしての認定においては、Joomlaプロジェクトはその言語に関連したいかなる文化的、社会的または政治的な主張あるいはその他のランゲージに対する主張も受け入れません。
+  # すべてのJoomla翻訳チームバッチの利用については、翻訳バッジ利用ポリシー(以下) を、またロゴの使用条件についてはOpen Source Matters ポリシーポリシー (リンク)を遵守しなければならなりません。
   # ランゲージパックはGNU GPL v2 あるいはそれ以上のライセンスの下でリリースされ、登録不要でエンドユーザに無償で配布されます。
   # すべてのランゲージパックファイル名は次のようになります: `"[ランゲージのISO名]_joomla_lang_[パッケージタイプ].[joomlaバージョン][最終的なパックバージョン]"` where: <ul><li>`[ランゲージのISO名]` = xx-XX  </li><li>`[パッケージタイプ]`. = site, admin, full</li><li>`[最終的なパックバージョン]` = v2, v3, など。</li></ul>  例: xx-XX_joomla_lang_full.1.5.8v2.zip
   # ランゲージパックは現在リリース中のJoomlaで最新の状態に保たれるものとします。
