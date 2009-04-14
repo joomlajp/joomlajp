@@ -479,8 +479,8 @@ REPLACE INTO `#__content` (`id`, `title`, `alias`, `title_alias`, `introtext`, `
 
 
 REPLACE INTO `#__menu_types` (`id`, `menutype`, `title`, `description`) VALUES
-(2, 'User Menu', 'ユーザメニュー', '登録ユーザメニュー'),
-(3, 'Top Menu', 'トップメニュー', 'トップレベルのナビゲーション'),
-(4, 'Resources', 'その他のメニュー', '追加リンク'),
-(5, 'Example Pages', 'サンプルページ', 'サンプルページ'),
-(6, 'Key Concepts', 'キーコンセプト', 'これはこの新規ユーザ向けにいくつかの重要な情報について解説しています。');
+(2, 'usermenu', 'ユーザメニュー', '登録ユーザメニュー'),
+(3, 'topmenu', 'トップメニュー', 'トップレベルのナビゲーション'),
+(4, 'othermenu', 'その他のメニュー', '追加リンク'),
+(5, 'ExamplePages', 'サンプルページ', 'サンプルページ'),
+(6, 'keyconcepts', 'キーコンセプト', 'これはこの新規ユーザ向けにいくつかの重要な情報について解説しています。');
