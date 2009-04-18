@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5"  client="site" type="language" method="upgrade">
+	<name>Japanese(JP)</name>
+	<tag>ja-JP</tag>
+	<version>1.5.10</version>
+	<creationDate>2009/03/26</creationDate>
+	<author>Joomla! Japanese Translation Project</author>
+	<authorEmail>project@joomla.jp</authorEmail>
+	<authorUrl>www.joomla.jp</authorUrl>
+	<copyright>Copyright (C) 2005 - 2009 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>Japanese language file for frontend</description>
+	<files>
+		<filename>index.html</filename>
+		<filename>ja-JP.com_banners.ini</filename>
+		<filename>ja-JP.com_contact.ini</filename>
+		<filename>ja-JP.com_content.ini</filename>
+		<filename>ja-JP.com_frontpage.ini</filename>
+		<filename>ja-JP.com_mailto.ini</filename>
+		<filename>ja-JP.com_media.ini</filename>
+		<filename>ja-JP.com_messages.ini</filename>
+		<filename>ja-JP.com_newsfeeds.ini</filename>
+		<filename>ja-JP.com_poll.ini</filename>
+		<filename>ja-JP.com_search.ini</filename>
+		<filename>ja-JP.com_user.ini</filename>
+		<filename>ja-JP.com_weblinks.ini</filename>
+		<filename>ja-JP.com_wrapper.ini</filename>
+		<filename>ja-JP.ignore.php</filename>
+		<filename>ja-JP.ini</filename>
+		<filename>ja-JP.mod_archive.ini</filename>
+		<filename>ja-JP.mod_banners.ini</filename>
+		<filename>ja-JP.mod_breadcrumbs.ini</filename>
+		<filename>ja-JP.mod_custom.ini</filename>
+		<filename>ja-JP.mod_feed.ini</filename>
+		<filename>ja-JP.mod_footer.ini</filename>
+		<filename>ja-JP.mod_latestnews.ini</filename>
+		<filename>ja-JP.mod_login.ini</filename>
+		<filename>ja-JP.mod_mainmenu.ini</filename>
+		<filename>ja-JP.mod_mostread.ini</filename>
+		<filename>ja-JP.mod_newsflash.ini</filename>
+		<filename>ja-JP.mod_online.ini</filename>
+		<filename>ja-JP.mod_poll.ini</filename>
+		<filename>ja-JP.mod_random_image.ini</filename>
+		<filename>ja-JP.mod_related_items.ini</filename>
+		<filename>ja-JP.mod_search.ini</filename>
+		<filename>ja-JP.mod_sections.ini</filename>
+		<filename>ja-JP.mod_stats.ini</filename>
+		<filename>ja-JP.mod_syndicate.ini</filename>
+		<filename>ja-JP.mod_whosonline.ini</filename>
+		<filename>ja-JP.mod_wrapper.ini</filename>
+		<filename>ja-JP.plg_content_pagebreak.ini</filename>
+		<filename>ja-JP.plg_content_vote.ini</filename>
+		<filename>ja-JP.plg_search_categories.ini</filename>
+		<filename>ja-JP.plg_search_contacts.ini</filename>
+		<filename>ja-JP.plg_search_content.ini</filename>
+		<filename>ja-JP.plg_search_newsfeeds.ini</filename>
+		<filename>ja-JP.plg_search_sections.ini</filename>
+		<filename>ja-JP.plg_search_weblinks.ini</filename>
+		<filename>ja-JP.plg_system_debug.ini</filename>
+		<filename>ja-JP.tpl_beez.ini</filename>
+		<filename>ja-JP.tpl_ja_purity.ini</filename>
+		<filename>ja-JP.tpl_rhuk_milkyway.ini</filename>
+		<filename file="meta">ja-JP.xml</filename>
+	</files>
+	<params />
+</install>
