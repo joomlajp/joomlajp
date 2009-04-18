@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<install version="1.5"  client="administrator" type="language">
+<install version="1.5"  client="administrator" type="language" method="upgrade">
 	<name>Japanese(JP)</name>
 	<tag>ja-JP</tag>
-	<version>1.5.9</version>
+	<version>1.5.10</version>
 	<creationDate>2009/03/26</creationDate>
 	<author>Joomla! Japanese Translation Project</author>
 	<authorEmail>project@joomla.jp</authorEmail>
-	<authorUrl>www.joomla.org</authorUrl>
+	<authorUrl>www.joomla.jp</authorUrl>
 	<copyright>Copyright (C) 2005 - 2008 Open Source Matters. All rights reserved.</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-	<description>Japanese language file for frontend</description>
+	<description>Japanese language file for administrator</description>
 	<files>
 		<filename>index.html</filename>
 		<filename>ja-JP.com_admin.ini</filename>
@@ -41,7 +41,6 @@
 		<filename>ja-JP.com_search.ini</filename>
 		<filename>ja-JP.com_search.menu.ini</filename>
 		<filename>ja-JP.com_sections.ini</filename>
-		<filename>ja-JP.com_statistics.ini</filename>
 		<filename>ja-JP.com_templates.ini</filename>
 		<filename>ja-JP.com_trash.ini</filename>
 		<filename>ja-JP.com_user.ini</filename>
