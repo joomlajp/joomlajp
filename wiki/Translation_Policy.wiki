@@ -39,9 +39,9 @@ Joomla翻訳チームとしての承認と承認の継続は「Joomla翻訳チ�
   # オンラインヘルプファイルはJoomla管理画面を介してアクセスでき、ウェブ上でエンドユーザに無償で利用されなければなりません。ヘルプファイルはをJoomla Electronic Documentation ライセンスを取得する必要があり、すべてのライセンス情報を保持します。
   # オンラインヘルプは現在リリース中のJoomlaで最新の状態に保たれるものとします。
   # ローカライズ版の配布にはJoomla.orgサイト以外はいかなる他のサイトの広告やリンクを含まれてはなりません。 Joomla翻訳チームサイトにはコアサンプルデータが含まれます。これに関しての唯一の例外は、サンプルデータの翻訳で、英語で書かれたリソースやコンテンツへのリンクは関連するランゲージで書かれた特定の具体的なコンテンツを含んだリンクに置き換えることができます。 これらは、ローカルサイトへの一般的なリンクの形式で表示されない場合があります。
-  # ローカライズ版の配布には　サンプルデータの口調やメッセージがJoomlaプロジェクトの使命、ビジョンまたは価値と一致し、有害ではない限り（例：Joomla標章、Joomlaプロジェクト、あるいはOSM,そのブランド品位、評判、信用のいずれかの価値に有害または損傷）、特別に作成されたサンプルデータを含むことができます。 下品、わいせつな、ポルノ、中傷、あるいは不愉快なコンテンツを含むものは有害扱いです。 (b) includes statements concerning that are libelous, slanderous or otherwise defamatory, or (c) would be considered a criminal offense or would encourage conduct that would be considered a criminal offense or create any civil liability. Requests for modification of sample content made by Open Source Matters must be addressed within five business days.
-  # Localized sample content may include menu links to specific relevant resources in the translation language. It shall include a menu link to Joomla.org.
-  # Localized distributions shall be released at no cost to end users and without requiring registration.
+  # ローカライズ版の配布には　サンプルデータの口調やメッセージがJoomlaプロジェクトの使命、ビジョンまたは価値と一致し、有害ではない限り（例：Joomla標章、Joomlaプロジェクト、あるいはOSM,そのブランド品位、評判、信用のいずれかの価値に有害または損傷）、特別に作成されたサンプルデータを含むことができます。 下品、わいせつな、ポルノ、中傷、あるいは不愉快なコンテンツを含むものは有害扱いです。 (b) 名誉を損なうもの、中傷あるいは名誉を傷つける発言を含んでいる。または (c) 犯罪または犯罪を促す内容、あるいは民事訴訟を生じる内容がある場合。サンプルコンテンツの見直し要求が Open Source Matters によって提示されたなら5実働日以内に対応しなければなりません。
+  # ローカライズ版のサンプルコンテンツは、翻訳言語にとって意味のあるリソースへのメニューリンクを含んでいるかもしれません。それは Joomla.org のメニューリンクも含まれます。
+  # ローカライズ版はエンドユーザに対し、登録を必要とせず無料でリリースされます。
   # ローカライズ版の配布は: "Joomla `[バージョン番号]` in X" X にはISOコードに対応する言語の公式英語名が入ります。<br>例: en-US だと "Joomla 1.5.9 in English (United States)" 
   # ローカライズ版の配布は現在のJoomla!の最新リリース日を保持します。When releases reach end of life on Joomlacode.org they shall no longer be available on Joomla Translation Team sites.
   # These terms may be changed by the Joomla Project from time to time. Notification of changes will be published in the Joomla Translation Teams Forum and policies will be posted on the opensourcematters.org Web site.
