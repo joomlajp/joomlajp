@@ -43,21 +43,21 @@ Joomla翻訳チームとしての承認と承認の継続は「Joomla翻訳チ�
   # ローカライズ版のサンプルコンテンツは、翻訳言語にとって意味のあるリソースへのメニューリンクを含んでいるかもしれません。それは Joomla.org のメニューリンクも含まれます。
   # ローカライズ版はエンドユーザに対し、登録を必要とせず無料でリリースされます。
   # ローカライズ版の配布は: "Joomla `[バージョン番号]` in X" X にはISOコードに対応する言語の公式英語名が入ります。<br>例: en-US だと "Joomla 1.5.9 in English (United States)" 
-  # ローカライズ版の配布は現在のJoomla!の最新リリース日を保持します。When releases reach end of life on Joomlacode.org they shall no longer be available on Joomla Translation Team sites.
-  # These terms may be changed by the Joomla Project from time to time. Notification of changes will be published in the Joomla Translation Teams Forum and policies will be posted on the opensourcematters.org Web site.
+  # ローカライズ版の配布は現在のJoomla!の最新リリース日を保持します。Joomlacode.org においてリリースが終了した時は、翻訳チームのサイトでも利用することはできません。
+  # 時に応じてこれ等は変更されるかもしれません。変更の通知は Joomla翻訳チームのフォーラムで公開され、opensourcematters.org のサイトで掲示されます。
 
 == バッジ使用ポリシー ==
 Joomla翻訳チームは、一定の条件の下でのWebサイト上のJoomla翻訳チームのバッジを使用することがあります。:
 
-  # このサイトは商用サイトではありません。
-  # このサイトは関連するすべてのOpen Source Matters ポリシーを遵守します。
+  # 商用サイトで使用してはいけません。
+  # Open Source Matters に関する全てのポリシーを守らなければいけません。
   # バッジはhttp://community.joomla.org/translations.html にリンクしなければなりません。
   # サイトはJoomlaプロジェクトの公式サイトではないことを明確にしなければなりません。
   # バッジは何らかの形で変更してはいけません。
 
 == ライセンス ==
-  # Translation of the language in the core files ("language packs" and "sample data") are derivative works and must be licensed using the GNU GPL.
-  # Translations of the installation files that are contributed for release in the official Joomla core release are derivative works and must be provided under GNU GPL. Copyrights are both Open Source Matters and author's. This work is acknowledged in the main credit file of the Joomla CMS. The XML file for the installation may contain author's name and URL. The description should only contain the name of the language in English or local language.
+  # コアファイル内のランゲージを翻訳したものは ("ランゲージパック" と "サンプルデータ") GNU GPLの元に派生した作業としてライセンスを扱わなければなりません。
+  # Joomlaの公式コアリリースとしてに寄稿されるインストールファイルの翻訳は、派生作業としてGNU GPLの元にリリースされ。著作権は、Open Source Mattersと作者の両方にあります。作業はJoomla CMSの主たるクレジットファイルにおいて周知されます。インストール用のXMLファイルに英語で作者名とURLが含まれ。説明には英語またはローカル言語で言語名だけが入ります。
   # Help screen translations for Joomla 1.5.x and later are governed by the Joomla Electronic Documentation license unless otherwise specified. The license terms and the original copyright attribution must remain unchanged. Translator attribution may be added per screen or globally on the site where the help screens are available online. A link to the JEDL has to be provided on the site.
   # Documentation translations made from the docs.joomla.org English originals are governed by the Joomla Electronic Documentation License unless otherwise specified. Translators may add their authorship. Link to the JEDL should be provided on the site.
   # The following statement must be presented with any localized distribution: "This is an unofficial localized distribution of Joomla. Support of this distribution is only available from the team that created it. It is not warranted by the Joomla Project or Open Source Matters."
