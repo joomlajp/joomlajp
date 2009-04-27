@@ -64,12 +64,12 @@ Joomla翻訳チームは、一定の条件の下でのWebサイト上のJoomla�
 
  
 == Open Source Matters ポリシー ==
-Joomlaプロジェクトの利益のためにJoomlaプロジェクトとコミュニティユーザの資産を保有する非営利団体として Open Source Matters が、いくつかののポリシーによってJoomlaの名前とロゴ、Joomlaソフトウェアラのイセンスとその他の法的および財政的な問題を管理します。完全版のポリシーは http://opensourcematters.org にあり。Joomla翻訳チームは全ての OSMポリシーに精通し守る義務があります。
+Joomlaプロジェクトの利益のためにJoomlaプロジェクトとコミュニティユーザの資産を保有する非営利団体として Open Source Matters が、複数のポリシーによってJoomlaの名前とロゴ、Joomlaソフトウェアラのイセンスとその他の法的および財政的な問題を管理します。完全版のポリシーは http://opensourcematters.org にあり。Joomla翻訳チームは全ての OSMポリシーに精通し守る義務があります。
 
-Some of the policies that are relevant for Joomla Translation Teams are:
-  * All use of the Joomla logo must be licensed by OSM.
-  * All use of the string Joomla in a domain name must be licensed by OSM.
-  * Use of the Joomla name or closely related names in business or extension names must be licensed by OSM.
+Joomla翻訳チームに関係するポリシーは以下の通りです:
+  * Joomlaロゴの使用に関する全てはOSMの許可が必要です。
+  * Joomlaという綴りの全てのドメイン名を使う場合はOSMの許可が必要です。
+  * Joomlaという名前やそれに類したり拡張した名前を事業に使う場合はOSMの許可が必要です。
   * License to use the name or logo requires agreement to several points including (but not limited to):
 
   # Acknowledgement that the trademark for Joomla is exclusively held by Open Source Matters.
