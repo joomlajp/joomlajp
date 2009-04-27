@@ -70,9 +70,9 @@ Joomla翻訳チームに関係するポリシーは以下の通りです:
   * Joomlaロゴの使用に関する全てはOSMの許可が必要です。
   * Joomlaという綴りの全てのドメイン名を使う場合はOSMの許可が必要です。
   * Joomlaという名前やそれに類したり拡張した名前を事業に使う場合はOSMの許可が必要です。
-  * License to use the name or logo requires agreement to several points including (but not limited to):
+  * 名前やロゴを使用する許可についていくつかの点で協定が必要です(これだけに止まるものではない):
 
-  # Acknowledgement that the trademark for Joomla is exclusively held by Open Source Matters.
+  # Joomlaのトレードマークについての承認は Open Source Matters が独占的に所有します。
   # Agreement that all Joomla extensions distributed from a licensed site will comply with all Joomla Extensions Directory policies and requirements.
   # Agreement to certain standards of quality such as not containing material that could be the cause of civic or criminal legal action.
   # Display of a standard disclaimer similar to:"The Joomla® name is used under limited license from Open Source Matters the worldwide trademark holder. The views opinions presented on this site do not represent the official views of the Joomla Project or of Open Source Matters."
