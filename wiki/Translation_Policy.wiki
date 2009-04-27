@@ -60,11 +60,11 @@ Joomla翻訳チームは、一定の条件の下でのWebサイト上のJoomla�
   # Joomlaの公式コアリリースとして寄稿されるインストールファイルの翻訳は、派生作業としてGNU GPLの元にリリースされ。著作権は、Open Source Mattersと作者の両方にあります。作業はJoomla CMSの主たるクレジットファイルにおいて周知されます。インストール用のXMLファイルに英語で作者名とURLが含まれ。説明には英語またはローカル言語で言語名だけが入ります。
   # Joomla 1.5.xとそれ以降におけるヘルプ画面の翻訳は特に明記しない限り、Joomla電子文書ライセンス下で管理されます。 このライセンス条項とオリジナルの著作権表示は変更できません。翻訳者の属性が画面またはグローバルなオンラインサイトで提供されるのヘルプ画面に記載されるかもしれませんが。JEDLへのリンクがそのサイトで提供されてる必要があります。
   # docs.joomla.orgで作成されたオリジナルの英文を翻訳した場合は、特に明記しない限り Joomla電子文書ライセンスの管理下になります。翻訳者は製作者を追記するかもしれませんが。JEDLへのリンクがそのサイトで提供されている必要があります。
-  # The following statement must be presented with any localized distribution: "This is an unofficial localized distribution of Joomla. Support of this distribution is only available from the team that created it. It is not warranted by the Joomla Project or Open Source Matters."
+  # ローカライズされた全て配布版は以下のステートメントを表示しなければなりません。: "これはJoomlaの非公式なローカライズ版です。 この版のサポートは作成したチームからのみで、Joomlaプロジェクトおよび Open Source Matters では保証しません。"
 
  
 == Open Source Matters ポリシー ==
-As the non-profit organization that holds the assets of the Joomla Project for the benefit of the Joomla Project and community of users, Open Source Matters has a number of policies that govern use of the Joomla name and logo, and the licensing of Joomla software, and other legal and financial issues. A complete set of these policies ins available at http://opensourcematters.org. It is the responsibility of Joomla Translation Teams to be familar with and comply with all OSM policies
+Joomlaプロジェクトの利益のためにJoomlaプロジェクトとコミュニティユーザの資産を保有する非営利団体として Open Source Matters が、いくつかののポリシーによってJoomlaの名前とロゴ、Joomlaソフトウェアラのイセンスとその他の法的および財政的な問題を管理します。完全版のポリシーは http://opensourcematters.org にあり。Joomla翻訳チームは全ての OSMポリシーに精通し守る義務があります。
 
 Some of the policies that are relevant for Joomla Translation Teams are:
   * All use of the Joomla logo must be licensed by OSM.
