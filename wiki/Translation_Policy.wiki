@@ -126,11 +126,11 @@ _どこでJoomlaの翻訳のための技術的なガイドラインを見つけ�
 
 _Joomlaの翻訳を作成あるいは配布するためには、私はJoomla翻訳チームに参加しなくてはいけませんか？_
 
-No. However, please note that all licensing, name use and other legal requirements apply whether or not your team is a Joomla Translation Team.
+いいえ。しかし、すべての使用許諾、名前の使用、またその他の法的な要件は、あなたのチームがJoomla翻訳チームであろうとなかろうと適用されることを覚えておいてください。
 
 _バッジを印刷物に使用することはできますか？_
 
-はい。if the usage complies with the Open Source Matters conditional use policy rules for printed matter and the use is non-commercial.
+はい。もし、用途が印刷物に関する Open Source Matters の条件付使用ポリシーに適合し、かつ、非営利ならば、ですが。
 
 _What is meant by "specific relevant resources in the translation language"?_
 
@@ -142,23 +142,23 @@ The second link goes to a subdomain, where all Norwegian language packs/files ar
 
 _なぜランゲージパックがjoomlacode.orgで利用できるようにする必要があるのですか?_
 
-Among other reasons, this will enable joomla.org to create a "Download Joomla in your Language" link that will be easy to use for users and easy access for webmasters who wish to create mutlilingual sites. As GNU GPL licensed code, Language Packs may also be made available on Joomla Translation Team and other sites.
+他にも理由はありますが、 joomla.org が、ユーザが使いやすく、多言語サイトの作成を希望するWebマスターにとってアクセスしやすい "Download Joomla in your Language" リンクを作れるようにするためです。GNU GPL ライセンスのコードであるため、ランゲージパックはまた、Joomla翻訳チームやその他のサイト上で入手可能となるでしょう。
 
 _どうしてヘルプ画面やサンプルデータのコピーがjoomlacode.orgのJoomla翻訳共通リポジトリで堆積しなければいけないのですか?_
 
-It is important for continuity and assurance of availability for users who depend upon these resources that copies of team work be stored in a central common repository.
+チームワークのコピーが中央の共通リポジトリに格納されることは、これらのリソースを当てにしているユーザに対して、入手可能の状態が継続しかつ確実とするために重要です。
 
 _どうしてチームは公開ダウンロードのためのサンプルデータとヘルプファイルの作成を強く推奨されるのですか?_
 
-Freedom, equality and collaboration are core values of the Joomla Project. One expression of these values is the use of the GNU GPL for licensing. Although the GNU GPL and the JEDL do not require distribution, they strongly value providing users with the ability to use, modify, study and share. They also do not distinguish between classes of users. All Joomla Translation Team members are encouraged to learn more about software freedom. Translators in this sense are encouraged to work under the same principles as developers and documentors who are part of the Joomla Project.
+自由と平等、そして協業は Joomla プロジェクトの基本価値です。これらの価値のひとつの表現がライセンスとしての GNU GPL の使用です。 GNU GPL と JEDL（訳注：the Joomla! Electronic Documentation License） は 配布を要求していませんが、それらはユーザに使用、修正、学習そして共有に対する可用性を提供することを積極的に評価します。それらはまたユーザの階層（class）を区別しません。すべてのJoomla翻訳チームメンバは、ソフトウェアの自由についてより学習することを推奨されます。この意味で、翻訳者たちは、Joomlaプロジェクトを担う開発者やドキュメント作成者と同じ原則の下で稼動することを推奨されます。
 
 _どうしてポリシーが改変されるかもしれないのですか?_
 
-Situations and needs of the Project and its community have changed in the past and will change in the future. As a result the Translation Policy, like all Project policies, may need to change. This statement ensures that notification is given to the entire community if the policy needs to change.
+プロジェクトとそのコミュニティの状況とその必要性は過去に変化してきましたし、また未来にも変更されるでしょう。結果的に、翻訳ポリシーはすべてのプロジェクトポリシーと同様に、変更が必要となることでしょう。この宣誓は、もしポリシーに変更が必要となれば、すべてのコミュニティに対して通知されることを補償します。
 
 _ポリシーが改変にはどのようなプロセスを経ますか?_
 
-The Joomla Project makes policies based on discussions with community members, Working Group members, team leads and coordinators, the Core Team, and the board of Open Source Matters as well as on the basis of legal and financial advice. Final policy decisions are made by the Core Team or the OSM board as appropriate.
+Joomlaプロジェクトはコミュニティメンバ、ワーキンググループメンバ、チームリーダやコーディネータ、コア・チーム、そして、経済的な勧告や法的ば根拠と同じように Open Source Matters の委員会との議論をベースにして、ポリシーを作成します。最終的なポリシーの決定はコアチームあるいは必要に応じてOSMの委員会によって為されます。
 
 == 典型的なファイルヘッダ ==
 http://community.joomla.org/translations/typical-language-file-headers.html を参照
