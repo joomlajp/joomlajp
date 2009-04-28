@@ -132,13 +132,13 @@ _バッジを印刷物に使用することはできますか？_
 
 はい。もし、用途が印刷物に関する Open Source Matters の条件付使用ポリシーに適合し、かつ、非営利ならば、ですが。
 
-_What is meant by "specific relevant resources in the translation language"?_
+_"翻訳言語にとって意味のあるリソース"とは何を意味しますか？_
 
-These are resources that provide useful information to users of the language in question.
+質問のこれらは、その言語のユーザに有益な情報を提供するリソースのことです。
 
-If we take the Norwegian distribution as an example (http://demo.joomlainorge.no/ ), there are a few added links under t.ex. the Recourses menu (Resurser) to help the users finding locale info and translations. This is added to the localized sample_data.sql. The first link goes to the main site of the local community site, where news and information is posted - http://www.joomlainorge.no/ This site is non commercial and has received domain name and other approvals from Open Source Matters.
+ノルウェーのディストリビューションを例に取るなら (http://demo.joomlainorge.no/ )、Recourses menu (Resurser) の下に、ユーザがローカルな情報や翻訳物を見つける助けとなる二、三のリンクが追加されています。これはローカライズされた sample_data.sql に追加されています。最初のリンクはニュースや情報が投稿されるローカルコミュニティサイトのメインサイト- http://www.joomlainorge.no/ へ行きます。このサイトは非営利であり、ドメイン名やその他の承認をOpen Source Mattersより受けています。
 
-The second link goes to a subdomain, where all Norwegian language packs/files are hosted. These include both Joomla and Third-Party Developer files, some not available other places on the Web - http://filer.joomlainorge.no/
+二番目のリンクはノルウェーのランゲージパック／ファイルがホストされたサブドメイン - http://filer.joomlainorge.no/ に行きます。これらは Joomla やサードパーティ製のファイル両方を含み、その幾つかは Web 上の他の場所では入手できません。
 
 _なぜランゲージパックがjoomlacode.orgで利用できるようにする必要があるのですか?_
 
@@ -165,24 +165,24 @@ http://community.joomla.org/translations/typical-language-file-headers.html を�
 
  
 == 定義 ==
-A translator is a translation team or individual that translates Joomla.
+翻訳者とは Joomla を翻訳する翻訳チームあるいは個人を指します。
 
-A translation team is an individual or group which creates or maintains Joomla translations in a specific language.
+翻訳チームとは特定の言語の Joomla 翻訳物を作成、あるいはメンテナンスする個人あるいはグループを指します。
 
-A Joomla Translation Team is a translation team that is represented in the Joomla Private Translation Forum.
+Joomla 翻訳チームとは Joomla の内部的な翻訳フォーラムにて表明された翻訳チームを指します。
 
-A Local Translation Coordinator is the representative of a Joomla Translation Team who participates in the Joomla Translation Team forum.
+地域の翻訳コーディネータとは Joomla 翻訳チームフォーラムに参加する、Joomla 翻訳チームの代表者を指します。
 
-A localized distribution is a distribution of Joomla that is preinstalled with a specific language package. It also may include sample content in that language and a link to online help in that language.
+ローカライズされたディストリビューションとは特定のランゲージパックでプレインストールされる Joomla のディストリビューションを意味します。それはまた、その言語でのサンプルコンテンツやオンラインヘルプへのリンクを含みます。
 
-The Joomla Translation Coordination Team manages the Joomla Translation Repository and the Joomla Translation Team Forum and coordinates translation related communication with other parts of the Joomla Project. It is a small group drawn from the Local Translation Coordinators.
+Joomla 翻訳コーディネイトチームは Joomla 翻訳リポジトリや Joomla 翻訳チームフォーラムを管理し、また、Joomla プロジェクトのほかのパートとのコミュニケーションに関連した翻訳を調整します。それは地域の翻訳コーディネータたちから選ばれた小さなグループです。
 
-A Joomla translation team badge is an image file that may be used to identify a Joomla Translation Team if certain conditions are met.
+Joomla 翻訳チームバッジとは、もしある種の条件が折り合えば Joomla 翻訳チームであることを証明するために使われるであろう画像ファイルを指します。
 
-The Joomla Translation Teams Agreement defines the terms and conditions for acceptance as a Joomla Translation Team.
+Joomla 翻訳チーム契約は Joomla 翻訳チームとして承諾するための契約や条件を定義します。
 
-A Joomla Translation Team web site is a site that distributes the work of a specific Joomla Translation Team (either exclusively or along with providing other information or services).
+Joomla 翻訳チーム Web サイトとは、特定の Joomla 翻訳チームの成果物を（単独で、あるいはその他の情報あるいはサービスの提供と一緒に）配布するサイトを指します。
 
-The Joomla Translation Common Repository is the area on Joomlacode.org where Joomla Translation Teams deposit their work. It is managed by the Joomla Translation Coordination Team.
+Joomla 翻訳共有リポジトリとは Joomla 翻訳チームが彼らの成果物を預託する Joomlacode.org のエリアを指します。それは Joomla 翻訳コーディネイトチームによって管理されます。
 
-The Joomla Translation Team Forum is a limited-access forum located on http://forum.joomla.org for use of Local Translation Coordinators.
+Joomla 翻訳チームフォーラムとは、地域の翻訳コーディネータが使用するため http://forum.joomla.org にあるアクセス制限されたフォーラムを指します。
