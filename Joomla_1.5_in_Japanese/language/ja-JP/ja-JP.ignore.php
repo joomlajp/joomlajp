@@ -6,6 +6,7 @@
  * @copyright Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved.
  * @copyright Copyright (C) Translation 2007- 2008 Translation Team(http://www.joomla.jp).
  * @copyright Copyright (C) Translation 2008- 2009 Translation Team(http://www.joomla.jp).
+ * @copyright Copyright (C) Translation 2009- 2010 Japanese Translation Team(http://www.joomla.jp).
  * @license		GNU/GPL, see LICENSE.php
  * Joomla! is free software. This version may have been modified pursuant
  * to the GNU General Public License, and as distributed it includes or
