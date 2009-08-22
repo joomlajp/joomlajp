@@ -11,16 +11,18 @@ Joomla! 1.5 Glossaryをまとめています。
 == A ==
 
   * Access Control Level (ACL) >>
+  * Activation >> 有効化
   * Admin Template >>
   * Administrator >>
   * Administrator Back-end >>
   * Alias >> エイリアス
   * alt attribute >>
-  * Apache >>
-  * API >>
-  * Archive >> アーカイブ
-  * Article >>
-  * Author >>
+  * Apache >> Apache
+  * API >> API
+  * Archive >> アーカイブ　(反対語: Unarchive >> 解凍)
+  * Article >> 記事
+  * Article Manager >> 記事管理
+  * Author >> 作者
 
 == B ==
 
@@ -32,20 +34,22 @@ Joomla! 1.5 Glossaryをまとめています。
 == C ==
 
   * Cascading Style Sheet (CSS) >>
-  * Category >> カテゴリ
-  * Category Manager >>
+  * Category >>
+  * Category Manager >> カテゴリー管理
   * Category Title >>
   * Check Out (an item) >>
   * Check-in (an item) >>
-  * Client >>
+  * Clean Cache >> キャシュ削除
+  * Client >> クライアント
   * Client-side Scripting >>
   * CMT >>
   * CMTP >>
-  * Component >>
+  * Component >> コンポーネント
   * Configuration File >>
-  * Content >>
+  * Contact >> メールフォーム
+  * Content >> コンテンツ
   * Content Management System (CMS) >>
-  * Control Panel >>
+  * Control Panel >> コントロールパネル
   * Core >>
 
 == D ==
@@ -66,18 +70,20 @@ Joomla! 1.5 Glossaryをまとめています。
 
   * FOSS >>
   * Front-end (Site Front-end) >>
-  * Front Page >>
+  * Front Page >> フロントページ
+  * Front Page Manager >> フロントページ管理
   * FTP >> FTP
 
 == G ==
 
-  * Global Check-in >>
-  * Global Configuration >>
+  * Global Check-in >> 一括ロック解除
+  * Global Configuration >> 基本設定
   * GPL >> GPL
   * Group >> グループ
 
 == H ==
 
+  * Hits >> 参照
   * HTML >> HTML
 
 == I ==
@@ -98,16 +104,22 @@ Joomla! 1.5 Glossaryをまとめています。
 
 == L ==
 
-  * Language >>
+  * Language >> ランゲージ
+  * Language Manager >> ランゲージ管理
+  * Logged In >> ログイン中
+  * Logout >> ログアウト
 
 == M ==
 
   * Main Body >>
   * Main Text >>
   * Manager >>
-  * Mass Mail >>
+  * Mass Mail >> 一括メール
   * Media File >>
-  * Media Manager >>
+  * Media >> メディア
+  * Media Manager >> メディア管理
+  * Menu(s) >> メニュー
+  * Menu Manager >> メニュー管理
   * Metadata >>
   * Metadata Author >>
   * Metadata Description >>
@@ -119,7 +131,7 @@ Joomla! 1.5 Glossaryをまとめています。
 
 == N ==
 
-  * News Feed >>
+  * News Feed >> ニュースフィード
 
 == O ==
 
@@ -134,24 +146,28 @@ Joomla! 1.5 Glossaryをまとめています。
   * patTemplate >>
   * PHP >> PHP
   * Plugin >> プラグイン
-  * Poll >>
+  * Poll(s) >> アンケートフォーム
   * Preview >> プレビュー
   * Project >> プロジェクト
   * Publish(ed) >> 公開
   * Publisher >> 公開者
+  * Purge Expired Cache >> 期限切れキャッシュ
 
 == Q ==
 
 == R ==
 
+  * Read Messages >> 受信トレイ
   * Record >>
   * Registered User >> 登録ユーザ
-  * RSS >>
+  * RSS >> RSS
 
 == S ==
 
+  * Search >> 検索
   * Server-side Scripting >>
   * Section >> セクション
+  * Section Manager >> セクション管理
   * SEF >> SEF
   * SEO >> SEO
   * Site Front-end >> サイトフロントエンド
@@ -160,6 +176,7 @@ Joomla! 1.5 Glossaryをまとめています。
   * Super Administrator >> サイト管理者
   * Sufix >> サフィックス
   * Syndication >>
+  * System Info >> システム情報
 
 == T ==
 
@@ -170,22 +187,28 @@ Joomla! 1.5 Glossaryをまとめています。
   * Title Alias >> タイトルエイリアス
   * Translation >>
   * Translation Partner >>
+  * Trash >>
 
 == U ==
 
+  * Unarchive >> 解凍
   * Uncategorized Article >>
-  * Unpublish(ed) >>
+  * Unpublish(ed) >> 非公開
   * URL >> URL
   * URI >> URI
+  * User >>
+  * User Manager >> ユーザ管理
+  * User Registration >> ユーザ登録
 
 == V ==
 
 
 == W ==
 
-  * Web Links >>
+  * Web Links >> Webリンク
   * Workspace >>
   * Wrapper >> ラッパー
+  * Write Messages >> メッセージの作成
   * WYSIWYG Editor >>
 
 == X ==
