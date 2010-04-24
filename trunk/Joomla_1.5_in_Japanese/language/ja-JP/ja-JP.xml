@@ -2,8 +2,8 @@
 <metafile version="1.5"  client="site" >
 	<name>Japanese(JP)</name>
 	<tag>ja-JP</tag>
-	<version>1.5.15</version>
-	<creationDate>2009/11/05</creationDate>
+	<version>1.5.16</version>
+	<creationDate>2010/04/24</creationDate>
 	<author>Joomla! Japanese Translation Project</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
@@ -14,8 +14,8 @@
 		<name>Japanese(JP)</name>
 		<tag>ja-JP</tag>
 		<rtl>0</rtl>
-		<locale>ja_JP.UTF8, ja_JP, jpn, ja, Japanse_Japan, japanse, jp, JP, JA</locale>
-		<backwardLang>Japanese</backwardLang>
+		<locale>ja_JP.UTF8, ja_JP, jpn, ja, Japanese_Japan, japanese, jp, JP, JA</locale>
+		<backwardLang>japanese</backwardLang>
 		<winCodePage>SJIS</winCodePage>
 		<pdfFontName>sazanami-gothic</pdfFontName>
 	</metadata>
