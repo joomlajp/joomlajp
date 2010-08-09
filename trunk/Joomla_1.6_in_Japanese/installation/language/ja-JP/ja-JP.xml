@@ -3,7 +3,7 @@
 <metafile
 	version="1.6"
 	client="installation">
-	<name>English (United Kingdom)</name>
+	<name>Japanese</name>
 	<version>1.6.0</version>
 	<creationDate>March 2009</creationDate>
 	<author>Joomla! Project</author>
@@ -13,11 +13,11 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description></description>
 	<files>
-		<filename>en-GB.ini</filename>
+		<filename>ja-JP.ini</filename>
 	</files>
 	<metadata>
-		<name>English (United Kingdom)</name>
-		<tag>en-GB</tag>
+		<name>Japanese</name>
+		<tag>ja-JP</tag>
 		<rtl>0</rtl>
 	</metadata>
 	<params />
