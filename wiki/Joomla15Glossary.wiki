@@ -16,6 +16,7 @@ Joomla! 1.5 Glossaryをまとめています。
   * Administrator >>
   * Administrator Back-end >>
   * Alias >> エイリアス
+　* Align >> 配置
   * alt attribute >>
   * Apache >> Apache
   * API >> API
@@ -50,12 +51,13 @@ Joomla! 1.5 Glossaryをまとめています。
   * Content >> コンテンツ
   * Content Management System (CMS) >>
   * Control Panel >> コントロールパネル
-  * Core >>
+  * Core >> コア
 
 == D ==
 
   * Database >> データベース
-  * Disable >> 
+  * Directory >> ディレクトリ
+  * Disable >> 無効
   * Document Object Model (DOM) >>
   * DOMIT >>
   * Dynamic HTML (DHTML) >>
