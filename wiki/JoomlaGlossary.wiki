@@ -17,7 +17,7 @@ Joomla! 1.5 - 1.6 Glossaryをまとめています。
   * Administrator >> 管理者
   * Administrator Back-end >> 管理者バックエンド
   * Alias >> エイリアス
-　* Align >> 配置
+  * Align >> 配置
   * alt attribute >> 代替属性
   * Apache >> Apache
   * API >> API
