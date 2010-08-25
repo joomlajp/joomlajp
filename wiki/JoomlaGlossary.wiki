@@ -1,0 +1,231 @@
+#labels Joomla Glossary,対訳表
+= Joomla! Glossary A to Z =
+
+Joomla! 1.5 - 1.6 Glossaryをまとめています。
+
+まだ未完成ですので、実際の最新日本語訳を参照し穴埋めして頂くと助かります。
+
+同じ単語に対する和訳が統一されていない場合は随時MLに議題を挙げて頂いて協議していきましょう。
+
+
+== A ==
+
+  * Access Control Level (ACL) >> アクセス制御レベル(ACL)
+  * Access Control List (ACL) >> アクセス制御リスト(ACL)
+  * Activation >> 有効化
+  * Admin Template >> 管理者テンプレート
+  * Administrator >> 管理者
+  * Administrator Back-end >> 管理者バックエンド
+  * Alias >> エイリアス
+　* Align >> 配置
+  * alt attribute >> 代替属性
+  * Apache >> Apache
+  * API >> API
+  * Archive >> アーカイブ　(反対語: Unarchive >> 解凍)
+  * Article >> 記事
+  * Article Manager >> 記事管理
+  * Author >> 作者
+
+== B ==
+
+  * Back-end >> バックエンド
+  * Banner >> バナー
+  * Blog >> ブログ
+  * Browser >> ブラウザ
+
+== C ==
+
+  * Cascading Style Sheet (CSS) >> （カスケーディング）スタイルシート(CSS)
+  * Category >> カテゴリ
+  * Category Manager >> カテゴリ管理
+  * Category Title >> カテゴリタイトル
+  * Check Out (an item) >>
+  * Check-in (an item) >>
+  * Clean Cache >> キャシュ削除
+  * Client >> クライアント
+  * Client-side Scripting >>
+  * CMT >>
+  * CMTP >>
+  * Component >> コンポーネント
+  * Configuration File >> 設定ファイル
+  * Contact >> メールフォーム　連絡先
+  * Content >> コンテンツ
+  * Content Management System (CMS) >> コンテンツマネージメントシステム(CMS)
+  * Control Panel >> コントロールパネル
+  * Core >> コア
+
+== D ==
+
+  * Database >> データベース
+  * Directory >> ディレクトリ
+  * Disable >> 無効
+  * Document Object Model (DOM) >> 文書オブジェクトモデル(DOM)
+  * DOMIT! A DOM XML Parser for PHP >> DOMIT! PHP用XMLパーサ
+  * Dynamic HTML (DHTML) >> ダイナミックHTML(DHTML)
+
+== E ==
+
+  * Editor >> エディタ
+  * Enable >> 有効
+  * Extension >> エクステンション
+
+== F ==
+
+  * FOSS (Free/Open Source Software) >> フリー／オープンソース ソフトウェア
+  * Front-end (Site Front-end) >> フロントエンド
+  * Front Page >> フロントページ
+  * Front Page Manager >> フロントページ管理
+  * FTP >> FTP
+
+== G ==
+
+  * Global Check-in >> 一括ロック解除
+  * Global Configuration >> 基本設定
+  * GPL >> GPL
+  * Group >> グループ
+
+== H ==
+
+  * Hits >> 参照
+  * HTML >> HTML
+
+== I ==
+
+  * Image tag >>
+  * Intro Text >>
+  * Installer >> インストーラ
+  * Item >> アイテム
+
+== J ==
+
+  * JavaScript >> JavaScript
+  * Joomla! >> Joomla!
+
+== K ==
+
+  * Keyword >> キーワード
+
+== L ==
+
+  * Language >> ランゲージ
+  * Language Manager >> ランゲージ管理
+  * Logged In >> ログイン中
+  * Logout >> ログアウト
+
+== M ==
+
+  * Main Body >>
+  * Main Text >> 本文
+  * Manager >> 管理　管理者
+  * Mass Mail >> 一括メール
+  * Media File >> メディアファイル
+  * Media >> メディア
+  * Media Manager >> メディア管理
+  * Menu(s) >> メニュー
+  * Menu Manager >> メニュー管理
+  * Metadata >> メタデータ
+  * Metadata Author >> メタデータ Author
+  * Metadata Description >> メタデータ Description
+  * Metadata Key Words >> メタデータ Key Words
+  * Module >> モジュール
+  * Module Position >> モジュールポジション モジュール配置 モジュール位置
+  * MooTools >> MooTools
+  * MySQL >> MySQL
+
+== N ==
+
+  * News Feed >> ニュースフィード
+
+== O ==
+
+  * Open Source (OS) >> オープンソース(OS)
+  * Operating System (OS) >> オペレーティングシステム(OS)
+
+== P ==
+
+  * pagebreak >> 改ページ
+  * pagination >> ページング
+  * Parameter >> パラメータ
+  * patTemplate >>
+  * PHP >> PHP
+  * Plugin >> プラグイン
+  * Poll(s) >> アンケートフォーム　投票
+  * Preview >> プレビュー
+  * Project >> プロジェクト
+  * Publish(ed) >> 公開する（済み）
+  * Published >> 公開
+  * Publisher >> 公開者
+  * Purge Expired Cache >> 期限切れキャッシュ
+
+== Q ==
+
+== R ==
+
+  * Read Messages >> 受信トレイ
+  * Record >> レコード
+  * Registered User >> 登録ユーザ
+  * RSS >> RSS
+
+== S ==
+
+  * Search >> 検索
+  * Server-side Scripting >>
+  * Section >> セクション
+  * Section Manager >> セクション管理
+  * SEF >> SEF
+  * SEO >> SEO
+  * Site Front-end >> サイトフロントエンド
+  * Site Template >> サイトテンプレート
+  * SQL >> SQL
+  * Super Administrator >> サイト管理者
+  * Sufix >> サフィックス
+  * Syndication >>
+  * System Info >> システム情報
+
+== T ==
+
+  * Template >> テンプレート
+  * Temp >> Temp
+  * Third Party Developer >>
+  * Title >> タイトル
+  * Title Alias >> タイトルエイリアス
+  * Translation >>
+  * Translation Partner >>
+  * Trash >>
+
+== U ==
+
+  * Unarchive >> 解凍
+  * Uncategorized Article >> 未分類記事
+  * Unpublish(ed) >> 非公開
+  * URL >> URL
+  * URI >> URI
+  * User >> ユーザ
+  * User Manager >> ユーザ管理
+  * User Registration >> ユーザ登録
+
+== V ==
+
+
+== W ==
+
+  * Web Links >> Webリンク
+  * Workspace >>
+  * Wrapper >> ラッパー
+  * Write Messages >> メッセージの作成
+  * WYSIWYG Editor >> WYSIWYGエディタ
+
+== X ==
+
+  * XML >> XML
+  * XHTML >> XHTML
+
+== Y ==
+
+
+== Z ==
+
+  * Zlib >> Zlib
+  * ZIP >> ZIP
+  * Zip Code >> 郵便番号
+  
