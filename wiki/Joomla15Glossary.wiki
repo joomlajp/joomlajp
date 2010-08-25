@@ -1,5 +1,3 @@
-nao2g
-#labels Joomla1.5Glossary,対訳表
 = Joomla! 1.5 Glossary A to Z =
 
 Joomla! 1.5 Glossaryをまとめています。
