@@ -131,6 +131,7 @@ Joomla! 1.5 - 1.6 Glossaryをまとめています。
   * Metadata Author >> メタデータ Author
   * Metadata Description >> メタデータ Description
   * Metadata Key Words >> メタデータ Key Words
+  * Modal >> モーダル（Modal dialog:一度開いたダイアログボックスを閉じるまで、他の操作をできなくするタイプのダイアログボックス）
   * Module >> モジュール
   * Module Position >> モジュールポジション モジュール配置 モジュール位置
   * MooTools >> MooTools
