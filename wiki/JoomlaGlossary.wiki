@@ -156,6 +156,7 @@ Joomla! 1.5 - 1.6 Glossaryをまとめています。
   * Plugin >> プラグイン
   * Poll(s) >> アンケートフォーム　投票
   * Preview >> プレビュー
+  * Profile >> プロファイル
   * Project >> プロジェクト
   * Publish(ed) >> 公開する（済み）
   * Published >> 公開
