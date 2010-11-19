@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<!-- $Id: en-GB.xml 14543 2010-02-04 04:29:34Z eddieajau $ -->
+	<!-- $Id: ja-JP.xml 14543 2010-02-04 04:29:34Z eddieajau $ -->
 <metafile
 	version="1.6"
 	client="installation">
-	<name>Japanese</name>
+	<name>Japanese(JP)</name>
 	<version>1.6.0</version>
-	<creationDate>March 2009</creationDate>
-	<author>Joomla! Project</author>
+	<creationDate>2010-10-21</creationDate>
+	<author>Joomla! Japanese Translation Team</author>
 	<authorEmail>admin@joomla.org</authorEmail>
 	<authorUrl>www.joomla.org</authorUrl>
 	<copyright>Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved.</copyright>
@@ -16,7 +16,7 @@
 		<filename>ja-JP.ini</filename>
 	</files>
 	<metadata>
-		<name>Japanese</name>
+		<name>Japanese(JP)</name>
 		<tag>ja-JP</tag>
 		<rtl>0</rtl>
 	</metadata>
