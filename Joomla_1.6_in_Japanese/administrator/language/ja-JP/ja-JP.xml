@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- $Id: ja-JP.xml 17184 2010-05-19 08:33:54Z infograf768 $ -->
+<!-- $Id: ja-JP.xml 19117 2010-10-14 12:06:53Z infograf768 $ -->
 <metafile version="1.6" client="administrator">
 	<name>Japanese(JP)</name>
 	<version>1.6.0</version>
-	<creationDate>2008-03-15</creationDate>
+	<creationDate>2010-10-21</creationDate>
 	<author>Joomla! Japanese Translation Project</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
 	<copyright>Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>Japanese language file for administrator</description>
+	<description>ja-JP administrator language</description>
 	<files>
 		<filename>ja-JP.com_admin.ini</filename>
 		<filename>ja-JP.com_admin.sys.ini</filename>
@@ -60,6 +60,7 @@
 		<filename>ja-JP.com_weblinks.sys.ini</filename>
 		<filename>ja-JP.com_wrapper.ini</filename>
 		<filename>ja-JP.com_wrapper.sys.ini</filename>
+		<filename>ja-JP.lib_joomla.ini</filename>
 		<filename>ja-JP.ini</filename>
 		<filename>ja-JP.mod_custom.ini</filename>
 		<filename>ja-JP.mod_custom.sys.ini</filename>
@@ -97,8 +98,6 @@
 		<filename>ja-JP.plg_authentication_joomla.sys.ini</filename>
 		<filename>ja-JP.plg_authentication_ldap.ini</filename>
 		<filename>ja-JP.plg_authentication_ldap.sys.ini</filename>
-		<filename>ja-JP.plg_authentication_openid.ini</filename>
-		<filename>ja-JP.plg_authentication_openid.sys.ini</filename>
 		<filename>ja-JP.plg_content_emailcloak.ini</filename>
 		<filename>ja-JP.plg_content_emailcloak.sys.ini</filename>
 		<filename>ja-JP.plg_content_geshi.ini</filename>
