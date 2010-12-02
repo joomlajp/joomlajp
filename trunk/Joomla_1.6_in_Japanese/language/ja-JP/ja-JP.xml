@@ -82,6 +82,7 @@
 		<name>Japanese(JP)</name>
 		<tag>ja-JP</tag>
 		<rtl>0</rtl>
+		<locale>ja-JP.utf8, ja-JP.UTF-8, ja_JP, jpn, ja, Japanese_Japan.UTF8, japanese, jp, JP, JA</locale>
 	</metadata>
 	<params />
 </metafile>
