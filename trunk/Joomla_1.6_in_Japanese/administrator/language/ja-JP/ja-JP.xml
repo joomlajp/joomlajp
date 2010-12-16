@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- $Id: en-GB.xml 19671 2010-11-29 14:58:04Z infograf768 $ -->
+<!-- $Id: en-GB.xml 19864 2010-12-13 10:53:43Z chdemko $ -->
 <metafile version="1.6" client="administrator">
 	<name>Japanese(JP)</name>
 	<version>1.6.0</version>
@@ -172,6 +172,7 @@
 		<tag>ja-JP</tag>
 		<rtl>0</rtl>
 		<locale>ja-JP.utf8, ja-JP.UTF-8, ja_JP, jpn, ja, Japanese_Japan.UTF8, japanese, jp, JP, JA</locale>
+		<firstDay>0</firstDay>
 	</metadata>
 	<params />
 </metafile>
