@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="1.6">
+<name>Japanese Language Pack</name>
+<packagename>ja-JP</packagename>
+<version>1.6</version>
+<url>www.joomla.jp</url>
+<packager></packager>
+<packagerurl></packagerurl>
+<description>1.6 Joomla 日本語ランゲージパック</description>
+<files>
+        <file type="language" client="admin" id="ja-JP">admin_ja-JP.zip</file>
+        <file type="language" client="site" id="ja-JP">site_ja-JP.zip</file>
+</files>
+</extension>
