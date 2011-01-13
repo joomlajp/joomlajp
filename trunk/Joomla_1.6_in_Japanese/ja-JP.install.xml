@@ -6,7 +6,7 @@
 <url>www.joomla.jp</url>
 <packager></packager>
 <packagerurl></packagerurl>
-<description>1.6 Joomla 日本語ランゲージパック</description>
+<description>Joomla 1.6 日本語ランゲージパック</description>
 <files>
         <file type="language" client="admin" id="ja-JP">admin_ja-JP.zip</file>
         <file type="language" client="site" id="ja-JP">site_ja-JP.zip</file>
