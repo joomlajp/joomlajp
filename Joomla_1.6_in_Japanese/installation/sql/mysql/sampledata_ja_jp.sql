@@ -171,7 +171,7 @@ INSERT INTO `#__assets` (`id`, `parent_id`, `lft`, `rgt`, `level`, `name`, `titl
 --
 
 INSERT IGNORE INTO `#__banners` VALUES
-(2, 1, 0, 'ショップ1', 'shop-1', 0, 16, 0, 'http://shop.joomla.org/amazoncom-bookstores.html', 1, 15, 'あなたの時間、才能、マネーによる貢献がJoomla!を可能なものにします。', '', 0, 1, '', '{"imageurl":"images\\/banners\\/shop-ad-books.jpg","width":"","height":"","alt":"Joomla! Books"}', 0, '', -1, 0, 0, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2011-01-01 00:00:01', 'en-GB'),
+(2, 1, 0, 'ショップ1', 'shop-1', 0, 16, 0, 'http://shop.joomla.org/amazoncom-bookstores.html', 1, 15, 'Joomla!ブックショップでJoomla!についての本をゲット', '', 0, 1, '', '{"imageurl":"images\\/banners\\/shop-ad-books.jpg","width":"","height":"","alt":"Joomla! Books"}', 0, '', -1, 0, 0, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2011-01-01 00:00:01', 'en-GB'),
 (3, 1, 0, 'ショップ2', 'shop-2', 0, 22, 0, 'http://shop.joomla.org', 1, 15, 'Joomla!ショップからTシャツ、キャップやその他盛り沢山。', '', 0, 2, '', '{"imageurl":"images\\/banners\\/shop-ad.jpg","width":"","height":"","alt":"Joomla! Shop"}', 0, '', -1, 0, 0, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '2011-01-01 00:00:01', 'en-GB'),
 (4, 1, 0, 'Joomla!のサポート', 'support-joomla', 0, 19, 0, 'http://contribute.joomla.org', 1, 15, 'あなたの時間、才能、マネーによる貢献がJoomla!を可能なものにします。', '', 0, 3, '', '{"imageurl":"images\\/banners\\/white.png","width":"","height":"","alt":""}', 0, '', -1, 0, 0, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '22011-01-01 00:00:01', 'en-GB');
 
