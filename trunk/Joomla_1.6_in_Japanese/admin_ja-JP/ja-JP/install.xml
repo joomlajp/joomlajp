@@ -167,6 +167,6 @@
 		<filename>ja-JP.tpl_hathor.ini</filename>
 		<filename>ja-JP.tpl_hathor.sys.ini</filename>
 		<filename file="meta">ja-JP.xml</filename>
-        <filename file="meta">install.xml</filename>
+    <filename file="meta">install.xml</filename>
 	</files>
 </install>
