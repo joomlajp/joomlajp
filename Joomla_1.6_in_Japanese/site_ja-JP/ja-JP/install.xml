@@ -76,8 +76,8 @@
 		<filename>ja-JP.tpl_beez_20.sys.ini</filename>
 		<filename>ja-JP.tpl_beez5.ini</filename>
 		<filename>ja-JP.tpl_beez5.sys.ini</filename>
-		<filename file="meta">ja-JP.xml</filename>
-        <filename file="meta">install.xml</filename>
 		<filename>ja-JP.localise.php</filename>
+		<filename file="meta">ja-JP.xml</filename>
+		<filename file="meta">install.xml</filename>
 	</files>
 </install>
