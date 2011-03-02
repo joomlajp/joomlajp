@@ -787,7 +787,7 @@ INSERT INTO `#__usergroups` (`id`, `parent_id`, `lft`, `rgt`, `title`) VALUES
 --
 
 INSERT IGNORE INTO `#__viewlevels` (`id`, `title`, `ordering`, `rules`) VALUES
-(4, 'カスタマーアクセスレベル', 3, '[6,3,12]');
+(4, 'カスタマー', 3, '[6,3,12]');
 
 --
 -- Dumping data for table `#__weblinks`
