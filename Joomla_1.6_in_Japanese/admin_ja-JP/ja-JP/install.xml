@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <install version="1.6" client="administrator" type="language" method="upgrade" overwrite="true">
-	<name>Japanese(JP)</name>
+	<name>日本語(Japan)</name>
 	<tag>ja-JP</tag>
 	<version>1.6.0</version>
 	<creationDate>2011-01-12</creationDate>
