@@ -816,4 +816,4 @@ INSERT INTO `#__extensions` (`extension_id`, `name`, `type`, `element`, `folder`
 
 INSERT INTO `#__languages` (`lang_id`,`lang_code`,`title`,`title_native`,`sef`,`image`,`description`,`metakey`,`metadesc`,`published`)
 VALUES
-(2, 'ja-JP', '日本語 (Japanese)', '日本語', 'ja', 'ja', '', '', '', 1);
+(2, 'ja-JP', '日本語 (Japanese)', '日本語 (JP)', 'ja', 'ja', '', '', '', 1);
