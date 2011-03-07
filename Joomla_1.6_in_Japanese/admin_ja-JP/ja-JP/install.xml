@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <install version="1.6" client="administrator" type="language" method="upgrade" overwrite="true">
-	<name>日本語 (Japanese)</name>
+	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
 	<version>1.6.0</version>
-	<creationDate>2011-01-12</creationDate>
+	<creationDate>2011-03-07</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
