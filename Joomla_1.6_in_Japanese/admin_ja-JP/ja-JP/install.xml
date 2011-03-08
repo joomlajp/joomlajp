@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<install version="1.6" client="administrator" type="language" method="upgrade" overwrite="true">
+<?xml version="1.0" encoding="utf-8" ?>
+<extension version="1.6" client="administrator" type="language" method="upgrade" overwrite="true">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
 	<version>1.6.1</version>
@@ -11,6 +11,8 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>管理画面用日本語ファイルです。</description>
 	<files>
+		<filename>index.html</filename>
+		<filename>install.xml</filename>
 		<filename>ja-JP.com_admin.ini</filename>
 		<filename>ja-JP.com_admin.sys.ini</filename>
 		<filename>ja-JP.com_banners.ini</filename>
@@ -166,7 +168,7 @@
 		<filename>ja-JP.tpl_bluestork.sys.ini</filename>
 		<filename>ja-JP.tpl_hathor.ini</filename>
 		<filename>ja-JP.tpl_hathor.sys.ini</filename>
+		<filename>ja-JP.localise.php</filename>
 		<filename file="meta">ja-JP.xml</filename>
-    <filename file="meta">install.xml</filename>
 	</files>
-</install>
+</extension>

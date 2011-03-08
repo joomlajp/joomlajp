@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <metafile version="1.6" client="site" method="upgrade">
 	<name>日本語 (Japan)</name>
-	<description>ja-JP site language for Joomla 1.6</description>
+	<description>Joomla 1.6サイト用日本語ファイルです。</description>
 	<version>1.6.1</version>
 	<creationDate>2011-03-07</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
