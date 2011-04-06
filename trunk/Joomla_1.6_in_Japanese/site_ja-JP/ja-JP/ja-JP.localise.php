@@ -51,7 +51,7 @@ abstract class ja_JPLocalise {
 	 * @since	1.6
 	 */
 	public static function getLowerLimitSearchWord() {
-		return 3;
+		return 2;
 	}
 	/**
 	 * Returns the upper length limit of search words
