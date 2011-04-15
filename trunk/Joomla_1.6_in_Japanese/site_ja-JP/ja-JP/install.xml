@@ -2,8 +2,8 @@
 <extension version="1.6" client="site" type="language" method="upgrade" overwrite="true">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
-	<version>1.6.1</version>
-	<creationDate>2011-03-07</creationDate>
+	<version>1.6.2</version>
+	<creationDate>2011-04-15</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
