@@ -9,7 +9,7 @@
 	<authorUrl>www.joomla.jp</authorUrl>
 	<copyright>Copyright (C) 2005 - 2011 Joomla.jp and Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>Joomla 1.6 サイト用日本語ファイルです。</description>
+	<description>Joomla! 1.6 サイト用日本語ファイルです。</description>
 	<files>
 		<filename>index.html</filename>
 		<filename>ja-JP.com_contact.ini</filename>
