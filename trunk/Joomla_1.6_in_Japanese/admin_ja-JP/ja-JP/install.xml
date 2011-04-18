@@ -2,14 +2,14 @@
 <extension version="1.6" client="administrator" type="language" method="upgrade" overwrite="true">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
-	<version>1.6.2</version>
-	<creationDate>2011-04-15</creationDate>
+	<version>1.6.3</version>
+	<creationDate>2011-04-18</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
 	<copyright>Copyright (C) 2005 - 2011 Joomla.jp and Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>管理画面用日本語ファイルです。</description>
+	<description>Joomla 1.6 管理画面用日本語ファイルです。</description>
 	<files>
 		<filename>index.html</filename>
 		<filename>ja-JP.com_admin.ini</filename>
