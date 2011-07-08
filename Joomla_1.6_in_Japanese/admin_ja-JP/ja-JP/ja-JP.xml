@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<metafile version="1.6" client="administrator" method="upgrade">
+<!-- $Id: en-GB.xml 21509 2011-06-10 07:48:41Z infograf768 $ -->
+<metafile version="1.7" client="administrator" method="upgrade">
 	<name>日本語 (Japan)</name>
-	<description>Joomla! 1.6 管理画面用日本語ファイルです。</description>
-	<version>1.6.3</version>
-	<creationDate>2011-04-18</creationDate>
+	<description>Joomla! 管理画面用日本語ファイルです。</description>
+	<version>1.7.0</version>
+	<creationDate>2011-07-08</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
