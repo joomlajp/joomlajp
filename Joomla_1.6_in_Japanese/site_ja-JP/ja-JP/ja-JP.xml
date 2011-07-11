@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<metafile version="1.7" client="site" method="upgrade">
+<metafile version="1.6" client="site" method="upgrade">
 	<name>日本語 (Japan)</name>
 	<description>Joomla! サイト用日本語ファイルです。</description>
-	<version>1.7.0</version>
-	<creationDate>2011-07-08</creationDate>
+	<version>1.6.5</version>
+	<creationDate>2011-07-11</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
