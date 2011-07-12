@@ -76,8 +76,6 @@
 		<filename>ja-JP.mod_login.sys.ini</filename>
 		<filename>ja-JP.mod_menu.ini</filename>
 		<filename>ja-JP.mod_menu.sys.ini</filename>
-		<filename>ja-JP.mod_online.ini</filename>
-		<filename>ja-JP.mod_online.sys.ini</filename>
 		<filename>ja-JP.mod_popular.ini</filename>
 		<filename>ja-JP.mod_popular.sys.ini</filename>
 		<filename>ja-JP.mod_quickicon.ini</filename>
@@ -90,8 +88,6 @@
 		<filename>ja-JP.mod_title.sys.ini</filename>
 		<filename>ja-JP.mod_toolbar.ini</filename>
 		<filename>ja-JP.mod_toolbar.sys.ini</filename>
-		<filename>ja-JP.mod_unread.ini</filename>
-		<filename>ja-JP.mod_unread.sys.ini</filename>
 		<filename>ja-JP.plg_authentication_example.ini</filename>
 		<filename>ja-JP.plg_authentication_example.sys.ini</filename>
 		<filename>ja-JP.plg_authentication_gmail.ini</filename>
