@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!-- $Id: en-GB.xml 21820 2011-07-12 08:54:33Z infograf768 $ -->
 <extension version="1.7" client="administrator" type="language" method="upgrade" overwrite="true">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
 	<version>1.7.0</version>
-	<creationDate>2011-07-08</creationDate>
+	<creationDate>2011-07-13</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
