@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- $Id: en-GB.xml 21845 2011-07-13 09:29:28Z infograf768 $ -->
+<!-- $Id: en-GB.xml 21875 2011-07-17 07:35:28Z infograf768 $ -->
 <extension version="1.7" client="administrator" type="language" method="upgrade" overwrite="true">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
 	<version>1.7.0</version>
-	<creationDate>2011-07-13</creationDate>
+	<creationDate>2011-07-19</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
@@ -89,8 +89,6 @@
 		<filename>ja-JP.mod_title.sys.ini</filename>
 		<filename>ja-JP.mod_toolbar.ini</filename>
 		<filename>ja-JP.mod_toolbar.sys.ini</filename>
-		<filename>ja-JP.plg_authentication_example.ini</filename>
-		<filename>ja-JP.plg_authentication_example.sys.ini</filename>
 		<filename>ja-JP.plg_authentication_gmail.ini</filename>
 		<filename>ja-JP.plg_authentication_gmail.sys.ini</filename>
 		<filename>ja-JP.plg_authentication_joomla.ini</filename>
