@@ -2,7 +2,7 @@
 <extension type="package" version="1.7">
 <name>日本語ランゲージパック</name>
 <packagename>ja-JP</packagename>
-<version>1.7.0</version>
+<version>1.7.1</version>
 <url>www.joomla.jp</url>
 <packager></packager>
 <packagerurl></packagerurl>
