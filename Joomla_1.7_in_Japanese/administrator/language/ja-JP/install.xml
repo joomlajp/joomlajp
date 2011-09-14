@@ -3,7 +3,7 @@
 <extension version="1.7" client="administrator" type="language" method="upgrade" overwrite="true">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
-	<version>1.7.0</version>
+	<version>1.7.1</version>
 	<creationDate>2011-07-19</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
