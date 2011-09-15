@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- $Id: en-GB.xml 21875 2011-07-17 07:35:28Z infograf768 $ -->
 <extension version="1.7" client="administrator" type="language" method="upgrade" overwrite="true">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
@@ -77,8 +76,8 @@
 		<filename>ja-JP.mod_login.sys.ini</filename>
 		<filename>ja-JP.mod_menu.ini</filename>
 		<filename>ja-JP.mod_menu.sys.ini</filename>
-		<filename>en-GB.mod_multilangstatus.ini</filename>
-		<filename>en-GB.mod_multilangstatus.sys.ini</filename>
+		<filename>ja-JP.mod_multilangstatus.ini</filename>
+		<filename>ja-JP.mod_multilangstatus.sys.ini</filename>
 		<filename>ja-JP.mod_popular.ini</filename>
 		<filename>ja-JP.mod_popular.sys.ini</filename>
 		<filename>ja-JP.mod_quickicon.ini</filename>
