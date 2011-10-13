@@ -807,17 +807,3 @@ INSERT IGNORE INTO `#__weblinks` (`id`, `catid`, `sid`, `title`, `alias`, `url`,
 (7, 31, 0, 'バウバウ国立公園', 'バウバウ国立公園', 'http://www.parkweb.vic.gov.au/1park_display.cfm?park=44', '<p>オーストラリアのアルプス国立公園システムのパーク、バウバウはアルプス山麓地方の植物、美しい景色やハイキング、スキーなどのアウトドア活動の機会を備えています。</p>', '0000-00-00 00:00:00', 0, 1, 0, '0000-00-00 00:00:00', 1, 0, 1, 1, '{"target":"0","count_clicks":""}', 'ja-JP', '2011-01-01 00:00:01', 0, '', '2011-01-01 00:00:01', 42, '', '', '{"robots":"","author":"","rights":""}', 0, '', '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (8, 31, 0, 'カカドゥ', 'カカドゥ', 'http://www.environment.gov.au/parks/kakadu/index.html', '<p>カカドゥは、文化遺産や自然の機能の両方で知られています。世界遺産スポットとして掲げる文化と自然の両面から貴重だとされる世界複合遺産のひとつです。広範囲のロックアートがそこにあります。</p>', '0000-00-00 00:00:00', 0, 1, 0, '0000-00-00 00:00:00', 2, 0, 1, 1, '{"target":"0","count_clicks":""}', 'ja-JP', '2011-01-01 00:00:01', 0, '', '2011-01-01 00:00:01', 42, '', '', '{"robots":"","author":"","rights":""}', 0, '', '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (9, 31, 0, 'Puluキーリング', 'Puluキーリング', 'http://www.environment.gov.au/parks/cocos/index.html', '<p>Puluキーリングは北のさんご礁2000キロに位置し、オーストラリア最小の国立公園です。</p>', '0000-00-00 00:00:00', 0, 1, 0, '0000-00-00 00:00:00', 3, 0, 1, 1, '{"target":"0","count_clicks":""}', 'ja-JP', '2011-01-01 00:00:01', 0, '', '2011-01-01 00:00:01', 42, '', '', '{"robots":"","author":"","rights":""}', 0, '', '2010-07-10 23:44:03', '0000-00-00 00:00:00');
-
---
--- Replace plg_editors_tinymce Language
---
-REPLACE INTO `#__extensions` VALUES(412, 'plg_editors_tinymce', 'plugin', 'tinymce', 'editors', 0, 1, 1, 1, '', '{"mode":"1","skin":"0","compressed":"0","cleanup_startup":"0","cleanup_save":"2","entity_encoding":"raw","lang_mode":"1","lang_code":"ja","text_direction":"ltr","content_css":"1","content_css_custom":"","relative_urls":"1","newlines":"0","invalid_elements":"script,applet,iframe","extended_elements":"","toolbar":"top","toolbar_align":"left","html_height":"550","html_width":"750","element_path":"1","fonts":"1","paste":"1","searchreplace":"1","insertdate":"1","format_date":"%Y-%m-%d","inserttime":"1","format_time":"%H:%M:%S","colors":"1","table":"1","smilies":"1","media":"1","hr":"1","directionality":"1","fullscreen":"1","style":"1","layer":"1","xhtmlxtras":"1","visualchars":"1","nonbreaking":"1","template":"1","blockquote":"1","wordcount":"1","advimage":"1","advlink":"1","autosave":"1","contextmenu":"1","inlinepopups":"1","safari":"0","custom_plugin":"","custom_button":""}', '', '', 0, '0000-00-00 00:00:00', 3, 0);
-REPLACE INTO `#__extensions` VALUES(11, 'com_languages', 'component', 'com_languages', '', 1, 1, 1, 1, '', '{"administrator":"ja-JP","site":"ja-JP"}', '', '', 0, '0000-00-00 00:00:00', 0, 0);
-# Languages
-INSERT INTO `#__extensions` (`extension_id`, `name`, `type`, `element`, `folder`, `client_id`, `enabled`, `access`, `protected`, `manifest_cache`, `params`, `custom_data`, `system_data`, `checked_out`, `checked_out_time`, `ordering`, `state`) VALUES
-(602, '日本語', 'language', 'ja-JP', '', 0, 1, 1, 1, '', '', '', '', 0, '0000-00-00 00:00:00', 0, 0),
-(603, '日本語', 'language', 'ja-JP', '', 1, 1, 1, 1, '', '', '', '', 0, '0000-00-00 00:00:00', 0, 0);
-
-INSERT INTO `#__languages` (`lang_id`,`lang_code`,`title`,`title_native`,`sef`,`image`,`description`,`metakey`,`metadesc`,`published`)
-VALUES
-(2, 'ja-JP', '日本語 (Japan)', '日本語 (JP)', 'ja', 'ja', '', '', '', 1);
