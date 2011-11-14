@@ -74,4 +74,3 @@ abstract class ja_JPLocalise {
 		return 200;
 	}
 }
-
