@@ -30,6 +30,8 @@
 		<filename>ja-JP.com_content.sys.ini</filename>
 		<filename>ja-JP.com_cpanel.ini</filename>
 		<filename>ja-JP.com_cpanel.sys.ini</filename>
+		<filename>ja-JP.com_finder.ini</filename>
+		<filename>ja-JP.com_finder.sys.ini</filename>
 		<filename>ja-JP.com_installer.ini</filename>
 		<filename>ja-JP.com_installer.sys.ini</filename>
 		<filename>ja-JP.com_languages.ini</filename>
@@ -96,8 +98,12 @@
 		<filename>ja-JP.plg_authentication_joomla.sys.ini</filename>
 		<filename>ja-JP.plg_authentication_ldap.ini</filename>
 		<filename>ja-JP.plg_authentication_ldap.sys.ini</filename>
+		<filename>ja-JP.plg_captcha_recaptcha.ini</filename>
+		<filename>ja-JP.plg_captcha_recaptcha.ini</filename>
 		<filename>ja-JP.plg_content_emailcloak.ini</filename>
 		<filename>ja-JP.plg_content_emailcloak.sys.ini</filename>
+		<filename>ja-JP.plg_content_finder.ini</filename>
+		<filename>ja-JP.plg_content_finder.sys.ini</filename>
 		<filename>ja-JP.plg_content_geshi.ini</filename>
 		<filename>ja-JP.plg_content_geshi.sys.ini</filename>
 		<filename>ja-JP.plg_content_joomla.ini</filename>
@@ -126,6 +132,20 @@
 		<filename>ja-JP.plg_editors-xtd_readmore.sys.ini</filename>
 		<filename>ja-JP.plg_extension_joomla.ini</filename>
 		<filename>ja-JP.plg_extension_joomla.sys.ini</filename>
+		<filename>ja-JP.plg_finder_categories.sys.ini</filename>
+		<filename>ja-JP.plg_finder_categories.sys.ini</filename>
+		<filename>ja-JP.plg_finder_contacts.ini</filename>
+		<filename>ja-JP.plg_finder_contacts.sys.ini</filename>
+		<filename>ja-JP.plg_finder_content.ini</filename>
+		<filename>ja-JP.plg_finder_content.sys.ini</filename>
+		<filename>ja-JP.plg_finder_newsfeeds.ini</filename>
+		<filename>ja-JP.plg_finder_newsfeeds.sys.ini</filename>
+		<filename>ja-JP.plg_finder_weblinks.ini</filename>
+		<filename>ja-JP.plg_finder_weblinks.sys.ini</filename>
+		<filename>ja-JP.plg_quickicon_extensionupdate.ini</filename>
+		<filename>ja-JP.plg_quickicon_extensionupdate.sys.ini</filename>
+		<filename>ja-JP.plg_quickicon_joomlaupdate.ini</filename>
+		<filename>ja-JP.plg_quickicon_joomlaupdate.sys.ini</filename>
 		<filename>ja-JP.plg_search_categories.ini</filename>
 		<filename>ja-JP.plg_search_categories.sys.ini</filename>
 		<filename>ja-JP.plg_search_contacts.ini</filename>
@@ -140,6 +160,12 @@
 		<filename>ja-JP.plg_system_cache.sys.ini</filename>
 		<filename>ja-JP.plg_system_debug.ini</filename>
 		<filename>ja-JP.plg_system_debug.sys.ini</filename>
+		<filename>ja-JP.plg_system_finder.ini</filename>
+		<filename>ja-JP.plg_system_finder.sys.ini</filename>
+		<filename>ja-JP.plg_system_highlight.ini</filename>
+		<filename>ja-JP.plg_system_highlight.sys.ini</filename>
+		<filename>ja-JP.plg_system_languagecode.ini</filename>
+		<filename>ja-JP.plg_system_languagecode.sys.ini</filename>
 		<filename>ja-JP.plg_system_languagefilter.ini</filename>
 		<filename>ja-JP.plg_system_languagefilter.sys.ini</filename>
 		<filename>ja-JP.plg_system_log.ini</filename>
