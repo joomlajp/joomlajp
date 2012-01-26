@@ -1,6 +1,5 @@
 <?php
 /**
- * @version		$Id$
  * @copyright	Copyright (C) 2005 - 2012 Open Source Matters, Inc. All rights reserved.
  * @license		GNU General Public License version 2 or later; see LICENSE.txt
  */
@@ -13,7 +12,7 @@ defined('_JEXEC') or die;
  * @package		Joomla.Site
  * @since		1.6
  */
-abstract class en_GBLocalise {
+abstract class ja_JPLocalise {
 	/**
 	 * Returns the potential suffixes for a specific number of items
 	 *
@@ -53,7 +52,7 @@ abstract class en_GBLocalise {
 	 * @since	1.6
 	 */
 	public static function getLowerLimitSearchWord() {
-		return 3;
+		return 2;
 	}
 	/**
 	 * Returns the upper length limit of search words
