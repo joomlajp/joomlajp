@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <install version="2.5" client="administrator" type="language" method="upgrade">
 	<name>日本語 (Japan)</name>
-    <tag>ja-JP</tag>
+	<tag>ja-JP</tag>
 	<version>2.5.0</version>
 	<creationDate>2012-01-24</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
@@ -11,7 +11,6 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Joomla! 管理画面用日本語ファイルです。</description>
 	<files>
-		<filename>index.html</filename>
 		<filename>ja-JP.com_admin.ini</filename>
 		<filename>ja-JP.com_admin.sys.ini</filename>
 		<filename>ja-JP.com_banners.ini</filename>
@@ -190,6 +189,7 @@
 		<filename>ja-JP.tpl_bluestork.sys.ini</filename>
 		<filename>ja-JP.tpl_hathor.ini</filename>
 		<filename>ja-JP.tpl_hathor.sys.ini</filename>
+		<filename>index.html</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">ja-JP.xml</filename>
 	</files>

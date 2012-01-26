@@ -2,7 +2,7 @@
 <install version="2.5" client="site" type="language" method="upgrade">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
-<version>2.5.0</version>
+	<version>2.5.0</version>
 	<creationDate>2012-01-26</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
@@ -11,7 +11,6 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Joomla! サイト用日本語ファイルです。</description>
 	<files>
-		<filename>index.html</filename>
 		<filename>ja-JP.com_contact.ini</filename>
 		<filename>ja-JP.com_content.ini</filename>
 		<filename>ja-JP.com_finder.ini</filename>
@@ -87,6 +86,7 @@
 		<filename>ja-JP.tpl_beez_20.sys.ini</filename>
 		<filename>ja-JP.tpl_beez5.ini</filename>
 		<filename>ja-JP.tpl_beez5.sys.ini</filename>
+		<filename>index.html</filename>
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">ja-JP.xml</filename>
 	</files>
