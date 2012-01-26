@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- $Id: ja-JP.xml 601 2012-01-19 10:45:22Z phatstyle $ -->
-; $Original: en-GB.xml 22551 2011-12-18 17:56:18Z github_bot $
-<metafile version="2.5" client="administrator">
+<install version="2.5" client="administrator" type="language" method="upgrade">
 	<name>日本語 (Japan)</name>
+    <tag>it-IT</tag>
 	<version>2.5.0</version>
-	<creationDate>2012-01-08</creationDate>
+	<creationDate>2012-01-24</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
@@ -194,12 +193,4 @@
 		<filename file="meta">install.xml</filename>
 		<filename file="meta">ja-JP.xml</filename>
 	</files>
-	<metadata>
-		<name>日本語 (Japan)</name>
-		<tag>ja-JP</tag>
-		<rtl>0</rtl>
-		<locale>ja-JP.utf8, ja-JP.UTF-8, ja_JP, jpn, ja, Japanese_Japan.UTF8, japanese, jp, JP, JA</locale>
-		<firstDay>1</firstDay>
-	</metadata>
-	<params />
-</metafile>
+</install>
