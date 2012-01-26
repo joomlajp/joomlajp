@@ -9,8 +9,8 @@ REPLACE INTO `#__extensions` VALUES(412, 'plg_editors_tinymce', 'plugin', 'tinym
 REPLACE INTO `#__extensions` VALUES(11, 'com_languages', 'component', 'com_languages', '', 1, 1, 1, 1, '', '{"administrator":"ja-JP","site":"ja-JP"}', '', '', 0, '0000-00-00 00:00:00', 0, 0);
 # Languages
 INSERT INTO `#__extensions` (`extension_id`, `name`, `type`, `element`, `folder`, `client_id`, `enabled`, `access`, `protected`, `manifest_cache`, `params`, `custom_data`, `system_data`, `checked_out`, `checked_out_time`, `ordering`, `state`) VALUES
-(602, '日本語', 'language', 'ja-JP', '', 0, 1, 1, 1, '', '', '', '', 0, '0000-00-00 00:00:00', 0, 0),
-(603, '日本語', 'language', 'ja-JP', '', 1, 1, 1, 1, '', '', '', '', 0, '0000-00-00 00:00:00', 0, 0);
+(602, '日本語', 'language', 'ja-JP', '', 0, 1, 1, 0, '', '', '', '', 0, '0000-00-00 00:00:00', 0, 0),
+(603, '日本語', 'language', 'ja-JP', '', 1, 1, 1, 0, '', '', '', '', 0, '0000-00-00 00:00:00', 0, 0);
 
 INSERT INTO `#__languages` (`lang_id`,`lang_code`,`title`,`title_native`,`sef`,`image`,`description`,`metakey`,`metadesc`,`published`)
 VALUES
