@@ -2,8 +2,8 @@
 <install version="2.5" client="administrator" type="language" method="upgrade">
 	<name>日本語 (Japan)</name>
 	<tag>ja-JP</tag>
-	<version>2.5.0</version>
-	<creationDate>2012-01-24</creationDate>
+	<version>2.5.1</version>
+	<creationDate>2012-02-02</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
