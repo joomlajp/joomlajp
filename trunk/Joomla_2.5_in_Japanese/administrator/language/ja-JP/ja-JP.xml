@@ -2,8 +2,8 @@
 <metafile version="2.5" client="administrator" method="upgrade">
 	<name>日本語 (Japan)</name>
 	<description>Joomla! 管理画面用日本語ファイルです。</description>
-	<version>2.5.0</version>
-	<creationDate>2012/01/26</creationDate>
+	<version>2.5.1</version>
+	<creationDate>2012-02-02</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
