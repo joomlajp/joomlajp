@@ -189,7 +189,7 @@ REPLACE INTO `#__modules_menu` (`moduleid`, `menuid`) VALUES
 --
 
 REPLACE INTO `#__template_styles` (`id`, `template`, `client_id`, `home`, `title`, `params`) VALUES
-(2, 'bluestork', 1, '1', 'Bluestork - Default', '{"useRoundedCorners":"1","showSiteName":"0"}'),
+(2, 'bluestork', 1, '1', 'Bluestork - デフォルト', '{"useRoundedCorners":"1","showSiteName":"0"}'),
 (3, 'atomic', 0, '0', 'Atomic - デフォルト', '{}'),
 (4, 'beez_20', 0, '0', 'Beez2 - デフォルト', '{"wrapperSmall":"53","wrapperLarge":"72","logo":"images\\/joomla_black.gif","sitetitle":"Joomla!","sitedescription":"Open Source Content Management","navposition":"left","templatecolor":"personal","html5":"0"}'),
 (5, 'hathor', 1, '0', 'Hathor - デフォルト', '{"showSiteName":"0","colourChoice":"","boldText":"0"}'),
