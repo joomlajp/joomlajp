@@ -124,7 +124,7 @@ INSERT IGNORE INTO `#__menu` (`id`, `menutype`, `title`, `alias`, `note`, `path`
 --
 
 REPLACE INTO `#__menu_types` (`id`, `menutype`, `title`, `description`) VALUES
-(1, 'mainmenu', 'メインメニュー', 'The main menu for the site'),
+(1, 'mainmenu', 'メインメニュー', 'サイトのメインメニュー'),
 (2, 'authormenu', '投稿者メニュー', ''),
 (3, 'bottommenu', 'ボトムメニュー', '');
 
