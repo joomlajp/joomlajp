@@ -16,6 +16,6 @@ INSERT INTO `#__extensions` (`extension_id`, `name`, `type`, `element`, `folder`
 (600, '日本語', 'language', 'ja-JP', '', 0, 1, 1, 0, '', '', '', '', 0, '0000-00-00 00:00:00', 0, 0),
 (601, '日本語', 'language', 'ja-JP', '', 1, 1, 1, 0, '', '', '', '', 0, '0000-00-00 00:00:00', 0, 0);
 
-INSERT INTO `#__languages` (`lang_id`,`lang_code`,`title`,`title_native`,`sef`,`image`,`description`,`metakey`,`metadesc`, `published`, `ordering`)
-VALUES
+REPLACE INTO `#__languages` (`lang_id`,`lang_code`,`title`,`title_native`,`sef`,`image`,`description`,`metakey`,`metadesc`, `published`, `ordering`) VALUES
+(1, 'en-GB', 'English (UK)', 'English (UK)', 'en', 'en', '', '', '', 1, 2),
 (2, 'ja-JP', '日本語 (Japan)', '日本語 (JP)', 'ja', 'ja', '', '', '', 1, 1);
