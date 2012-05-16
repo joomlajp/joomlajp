@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<metafile version="2.5" client="site" method="upgrade">
-	<name>日本語 (Japan)</name>
+<metafile version="2.5" client="site">
+	<tag>ja-JP</tag>
+	<name>日本語 (ja-JP)</name>
 	<description>Joomla! サイト用日本語ファイルです。</description>
-	<version>2.5.4</version>
-	<creationDate>2012-04-02</creationDate>
+	<version>2.5.4.2</version>
+	<creationDate>2012-05-15</creationDate>
 	<author>Japanese translation team : Joomla.jp</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
