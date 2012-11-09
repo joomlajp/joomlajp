@@ -42,7 +42,7 @@ INSERT INTO `#__assets` (`id`, `parent_id`, `lft`, `rgt`, `level`, `name`, `titl
 (29, 7, 14, 15, 2, 'com_contact.category.4', '未分類', '{"core.create":[],"core.delete":[],"core.edit":[],"core.edit.state":[],"core.edit.own":[]}'),
 (30, 19, 56, 57, 2, 'com_newsfeeds.category.5', '未分類', '{"core.create":[],"core.delete":[],"core.edit":[],"core.edit.state":[],"core.edit.own":[]}'),
 (31, 25, 72, 73, 2, 'com_weblinks.category.6', '未分類', '{"core.create":[],"core.delete":[],"core.edit":[],"core.edit.state":[],"core.edit.own":[]}'),
-(32, 24, 68, 69, 1, 'com_users.notes.category.7', '未分類', '{"core.create":[],"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
+(32, 24, 68, 69, 1, 'com_users.category.7', '未分類', '{"core.create":[],"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (33, 1, 77, 78, 1, 'com_finder', 'com_finder', '{"core.admin":{"7":1},"core.manage":{"6":1}}'),
 (34, 27, 19, 20, 3, 'com_content.article.1', 'ホームページタイトル', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (35, 27, 21, 22, 3, 'com_content.article.2', '私たちについて', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
@@ -66,7 +66,7 @@ INSERT IGNORE INTO `#__categories` (`id`, `asset_id`, `parent_id`, `lft`, `rgt`,
 (4, 29, 1, 5, 6, 1, 'uncategorised', 'com_contact', '未分類', '未分類', '', '', 1, 0, '0000-00-00 00:00:00', 1, '{"target":"","image":""}', '', '', '{"page_title":"","author":"","robots":""}', 42, '2010-06-28 13:27:57', 0, '0000-00-00 00:00:00', 0, '*'),
 (5, 30, 1, 7, 8, 1, 'uncategorised', 'com_newsfeeds', '未分類', '未分類', '', '', 1, 0, '0000-00-00 00:00:00', 1, '{"target":"","image":""}', '', '', '{"page_title":"","author":"","robots":""}', 42, '2010-06-28 13:28:15', 0, '0000-00-00 00:00:00', 0, '*'),
 (6, 31, 1, 9, 10, 1, 'uncategorised', 'com_weblinks', '未分類', '未分類', '', '', 1, 0, '0000-00-00 00:00:00', 1, '{"target":"","image":""}', '', '', '{"page_title":"","author":"","robots":""}', 42, '2010-06-28 13:28:33', 0, '0000-00-00 00:00:00', 0, '*'),
-(7, 32, 1, 11, 12, 1, 'uncategorised', 'com_users.notes', '未分類', '未分類', '', '', 1, 0, '0000-00-00 00:00:00', 1, '{"target":"","image":""}', '', '', '{"page_title":"","author":"","robots":""}', 42, '2010-06-28 13:28:33', 0, '0000-00-00 00:00:00', 0, '*'),
+(7, 32, 1, 11, 12, 1, 'uncategorised', 'com_users', '未分類', '未分類', '', '', 1, 0, '0000-00-00 00:00:00', 1, '{"target":"","image":""}', '', '', '{"page_title":"","author":"","robots":""}', 42, '2010-06-28 13:28:33', 0, '0000-00-00 00:00:00', 0, '*'),
 (8, 36, 1, 13, 14, 1, 'news', 'com_content', 'ニュース', 'ニュース', '', '<p>これは、私たちからの最新ニュースです。</p>\r\n<p>あなたは、コンテンツカテゴリ管理でこの説明を編集することができます。</p>\r\n<p>これは最も最近の記事が表示されます。それ以上表示するように簡単に変更することができます。</p>\r\n<p>左側のモジュールは、古い記事のリストが表示されます。</p>', 1, 0, '0000-00-00 00:00:00', 1, '{"category_layout":"","image":""}', '', '', '{"author":"","robots":""}', 42, '2012-01-04 03:09:08', 42, '2012-01-04 04:32:05', 0, '*');
 
 --
