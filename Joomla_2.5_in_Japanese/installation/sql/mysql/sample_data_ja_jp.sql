@@ -166,7 +166,7 @@ INSERT INTO `#__assets` (`id`, `parent_id`, `lft`, `rgt`, `level`, `name`, `titl
 (166, 47, 183, 188, 6, 'com_content.category.75', 'ナビゲーションモジュール', '{"core.create":[],"core.delete":[],"core.edit":[],"core.edit.state":[],"core.edit.own":[]}'),
 (167, 54, 291, 292, 4, 'com_content.category.76', 'レシピ', '{"core.create":{"12":1,"10":1},"core.delete":[],"core.edit":[],"core.edit.state":[],"core.edit.own":{"12":1,"10":1}}'),
 (168, 34, 106, 107, 3, 'com_content.article.67', '1.5は何が新しくなったのか？', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
-(169, 24, 337, 338, 2, 'com_users.notes.category.77', '未分類', ''),
+(169, 24, 337, 338, 2, 'com_users.category.77', '未分類', ''),
 (170, 50, 219, 220, 6, 'com_content.article.68', 'キャプチャ', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (171, 50, 221, 222, 6, 'com_content.article.69', 'クイックアイコン', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
 (172, 96, 178, 179, 7, 'com_content.article.70', 'スマートサーチ', '{"core.delete":[],"core.edit":[],"core.edit.state":[]}'),
@@ -265,7 +265,7 @@ INSERT IGNORE INTO `#__categories` (`id`, `asset_id`, `parent_id`, `lft`, `rgt`,
 (73, 109, 28, 46, 47, 4, 'sample-data-articles/park-site/photo-gallery/scenery', 'com_content', '風景', '風景', '', '', 1, 0, '0000-00-00 00:00:00', 1, '{"target":"","image":""}', '', '', '{"page_title":"","author":"","robots":""}', 42, '2011-01-01 00:00:01', 42, '2011-01-01 00:00:01', 0, 'ja-JP'),
 (75, 166, 22, 23, 24, 5, 'sample-data-articles/joomla/extensions/modules/navigation-modules', 'com_content', 'ナビゲーションモジュール', 'ナビゲーションモジュール', '', '<p>ナビゲーションモジュールは訪問者があなたのサイト内で必要な情報がどこにあるかを探す手助けをします。</p>\r\n<p>メニューはサイト構造を提供し、サイト訪問者をナビゲートします。しかしそれはすべて同じメニューモジュールを使用しています。サンプルデータ内で使用されているいろんな方法で表示されているメニューは、どれだけこのモジュールに柔軟性があるかを示しています。</p>\r\n<p>メニューは限りなくシンプル（例えばトップメニューまたはサンプルサイトのオーストラリアの公演のメニュー）から限りなく複雑（例えばJoomla!についてのメニューはとても多階層）にもできます。"このサイト"メニューからリンクされているサイトマップの用な使い方も可能です。</p>\r\n<p>パンくずはユーザにサイト内のどこに居るかの情報を提供します。</p>', 1, 0, '0000-00-00 00:00:00', 1, '{"category_layout":"","image":""}', '', '', '{"author":"","robots":""}', 42, '2011-01-01 00:00:01', 42, '2011-01-01 00:00:01', 0, '*'),
 (76, 167, 29, 53, 54, 3, 'sample-data-articles/fruit-shop-site/recipes', 'com_content', 'レシピ', 'レシピ', '', '<p>カスタマーとサプライヤーはお気に入りの果物レシピをここに投稿することができます。</p>\r\n<p>メタデータキーワードの使用を促進する良いアイデアは、簡単に同じ果物を使った他のレシピを見つけられるようにすることです。</p>\r\n<p><em>この動作を確認するには、カスタマーグループに割り当てられたユーザとサプライヤーグループに割り当てられたユーザを作成します。これらのユーザは自身のレシピページを作成し、それらのページを編集することができるようになります。彼らは他のユーザのページを編集することはできません。</em><br /><br /></p>', 1, 0, '0000-00-00 00:00:00', 1, '{"category_layout":"","image":""}', '', '', '{"author":"","robots":""}', 42, '2011-01-01 00:00:01', 42, '2011-12-27 12:18:25', 0, '*'),
-(77, 169, 1, 133, 134, 1, 'uncategorised', 'com_users.notes', '未分類', '未分類', '', '', 1, 0, '0000-00-00 00:00:00', 1, '{"target":"","image":""}', '', '', '{"page_title":"","author":"","robots":""}', 42, '2011-01-01 00:00:01', 0, '2011-01-01 00:00:01', 0, '*');
+(77, 169, 1, 133, 134, 1, 'uncategorised', 'com_users', '未分類', '未分類', '', '', 1, 0, '0000-00-00 00:00:00', 1, '{"target":"","image":""}', '', '', '{"page_title":"","author":"","robots":""}', 42, '2011-01-01 00:00:01', 0, '2011-01-01 00:00:01', 0, '*');
 --
 -- Update rgt value of root category row
 --
