@@ -3,12 +3,12 @@
 	<tag>ja-JP</tag>
 	<name>日本語 (ja-JP)</name>
 	<description>Joomla! 管理画面用日本語ファイルです。</description>
-	<version>2.5.8.1</version>
-	<creationDate>2012-11-09</creationDate>
-	<author>Japanese translation team : Joomla.jp</author>
+	<version>2.5.9.1</version>
+	<creationDate>2013-2-04</creationDate>
+	<author>JOOMLA.JP</author>
 	<authorEmail>project@joomla.jp</authorEmail>
 	<authorUrl>www.joomla.jp</authorUrl>
-	<copyright>Copyright (C) 2005 - 2012 Joomla!JP and Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2013 Joomla!JP and Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<metadata>
 		<name>日本語 (Japan)</name>
