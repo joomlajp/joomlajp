@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="2.5" client="installation">
 	<name>日本語 (Japan)</name>
-	<version>2.5.8.1</version>
-	<creationDate>2012-11-09</creationDate>
-	<author>Joomla! Japanese Translation Team</author>
-	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
+	<version>2.5.9.1</version>
+	<creationDate>2013-2-04</creationDate>
+	<author>JOOMLA.JP</author>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Joomla! インストール用日本語ファイルです。</description>
 	<files>
