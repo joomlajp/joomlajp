@@ -1,0 +1,12 @@
+# TinyMCE plugin #
+## ieSpell plugin ##
+IE(Internet Explorer)専用のプラグインでJoomla!1.5.10時点ではボタンが表示されていないが、以下のような例で表示させることができる。
+### tinymce.php の編集 ###
+/plugins/editors/tinymce.php の84行以下で任意の場所に、他のプラグイン指定と同様に指定する。
+```
+// iespell plugin
+$plugins[] = 'iespell';
+$buttons2[] = 'iespell';
+```
+  * 記述した場所の順番は、そのままボタン列の表示順になる。
+  * if文を入れて管理画面で表示・非表示を設定したい場合は、/plugins/editors/tinymce.xml に パラメーター文を追加しなければならない。

@@ -1,0 +1,226 @@
+# Joomla! 1.5 Glossary A to Z #
+
+Joomla! 1.5 Glossaryをまとめています。
+
+まだ未完成ですので、実際の最新日本語訳を参照し穴埋めして頂くと助かります。
+
+同じ単語に対する和訳が統一されていない場合は随時MLに議題を挙げて頂いて協議していきましょう。
+
+
+## A ##
+
+  * Access Control Level (ACL) >>
+  * Activation >> 有効化
+  * Admin Template >>
+  * Administrator >>
+  * Administrator Back-end >>
+  * Alias >> エイリアス
+　**Align >> 配置
+  * alt attribute >>
+  * Apache >> Apache
+  * API >> API
+  * Archive >> アーカイブ　(反対語: Unarchive >> 解凍)
+  * Article >> 記事
+  * Article Manager >> 記事管理
+  * Author >> 作者**
+
+## B ##
+
+  * Back-end >>
+  * Banner >> バナー
+  * Blog >> ブログ
+  * Browser >> ブラウザ
+
+## C ##
+
+  * Cascading Style Sheet (CSS) >>
+  * Category >>
+  * Category Manager >> カテゴリー管理
+  * Category Title >>
+  * Check Out (an item) >>
+  * Check-in (an item) >>
+  * Clean Cache >> キャシュ削除
+  * Client >> クライアント
+  * Client-side Scripting >>
+  * CMT >>
+  * CMTP >>
+  * Component >> コンポーネント
+  * Configuration File >>
+  * Contact >> メールフォーム
+  * Content >> コンテンツ
+  * Content Management System (CMS) >>
+  * Control Panel >> コントロールパネル
+  * Core >> コア
+
+## D ##
+
+  * Database >> データベース
+  * Directory >> ディレクトリ
+  * Disable >> 無効
+  * Document Object Model (DOM) >>
+  * DOMIT >>
+  * Dynamic HTML (DHTML) >>
+
+## E ##
+
+  * Editor >> エディタ
+  * Enable >> 有効
+  * Extension >> エクステンション
+
+## F ##
+
+  * FOSS >>
+  * Front-end (Site Front-end) >>
+  * Front Page >> フロントページ
+  * Front Page Manager >> フロントページ管理
+  * FTP >> FTP
+
+## G ##
+
+  * Global Check-in >> 一括ロック解除
+  * Global Configuration >> 基本設定
+  * GPL >> GPL
+  * Group >> グループ
+
+## H ##
+
+  * Hits >> 参照
+  * HTML >> HTML
+
+## I ##
+
+  * Image tag >>
+  * Intro Text >>
+  * Installer >> インストーラ
+  * Item >> アイテム
+
+## J ##
+
+  * JavaScript >> JavaScript
+  * Joomla! >> Joomla!
+
+## K ##
+
+  * Keyword >> キーワード
+
+## L ##
+
+  * Language >> ランゲージ
+  * Language Manager >> ランゲージ管理
+  * Logged In >> ログイン中
+  * Logout >> ログアウト
+
+## M ##
+
+  * Main Body >>
+  * Main Text >>
+  * Manager >>
+  * Mass Mail >> 一括メール
+  * Media File >>
+  * Media >> メディア
+  * Media Manager >> メディア管理
+  * Menu(s) >> メニュー
+  * Menu Manager >> メニュー管理
+  * Metadata >>
+  * Metadata Author >>
+  * Metadata Description >>
+  * Metadata Key Words >>
+  * Module >> モジュール
+  * Module Position >> モジュールポジション
+  * MooTools >>
+  * MySQL >> MySQL
+
+## N ##
+
+  * News Feed >> ニュースフィード
+
+## O ##
+
+  * Open Source (OS) >> オープンソース(OS)
+  * Operating System (OS) >>
+
+## P ##
+
+  * pagebreak >>
+  * pagination >>
+  * Parameter >>
+  * patTemplate >>
+  * PHP >> PHP
+  * Plugin >> プラグイン
+  * Poll(s) >> アンケートフォーム
+  * Preview >> プレビュー
+  * Project >> プロジェクト
+  * Publish(ed) >> 公開
+  * Publisher >> 公開者
+  * Purge Expired Cache >> 期限切れキャッシュ
+
+## Q ##
+
+## R ##
+
+  * Read Messages >> 受信トレイ
+  * Record >>
+  * Registered User >> 登録ユーザ
+  * RSS >> RSS
+
+## S ##
+
+  * Search >> 検索
+  * Server-side Scripting >>
+  * Section >> セクション
+  * Section Manager >> セクション管理
+  * SEF >> SEF
+  * SEO >> SEO
+  * Site Front-end >> サイトフロントエンド
+  * Site Template >> サイトテンプレート
+  * SQL >> SQL
+  * Super Administrator >> サイト管理者
+  * Sufix >> サフィックス
+  * Syndication >>
+  * System Info >> システム情報
+
+## T ##
+
+  * Template >> テンプレート
+  * Temp >> Temp
+  * Third Party Developer >>
+  * Title >> タイトル
+  * Title Alias >> タイトルエイリアス
+  * Translation >>
+  * Translation Partner >>
+  * Trash >>
+
+## U ##
+
+  * Unarchive >> 解凍
+  * Uncategorized Article >>
+  * Unpublish(ed) >> 非公開
+  * URL >> URL
+  * URI >> URI
+  * User >>
+  * User Manager >> ユーザ管理
+  * User Registration >> ユーザ登録
+
+## V ##
+
+
+## W ##
+
+  * Web Links >> Webリンク
+  * Workspace >>
+  * Wrapper >> ラッパー
+  * Write Messages >> メッセージの作成
+  * WYSIWYG Editor >>
+
+## X ##
+
+  * XML >> XML
+  * XHTML >> XHTML
+
+## Y ##
+
+
+## Z ##
+
+  * Zlib >>
+  * ZIP >>

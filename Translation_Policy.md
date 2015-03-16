@@ -1,0 +1,189 @@
+# 概要 #
+Joomla.orgによる<a href='http://community.joomla.org/translations/translation-policy.html'>Translation and Localization Policy</a> の和訳です。
+
+原文は随時更新されるかもしれません、注意してください。
+
+---
+
+
+# 「翻訳と地域化の指針」 #
+
+## はじめに ##
+Joomlaプロジェクトのビジョンには、「それぞれの言語を使う世界中の人々」が含まれます。Joomlaのコアファイル、ヘルプスクリーン、ドキュメントの翻訳は、多言語対応のための開発チームとの連携などと共にこの目的を達するために役立ちます。この「翻訳と地域化の指針」は、参加するのにやりがいがあって楽しく、さらにユーザからの信頼を維持するための世界規模のコミュニティを創り、このビジョンを具体化するために作成されました。そのビジョンは、「自由、平等、信頼性、コミュニティ、協力、そして使いやすさ」というプロジェクトの核心的な価値観に基づいています。
+
+
+## 翻訳と地域化の指針 ##
+Joomla翻訳チームのみがその成果物をJoomla.orgと関連サイトに掲載し、Joomla翻訳共有リポジトリにホストされます。
+
+Joomla翻訳チームとしての承認と承認の継続は「Joomla翻訳チーム契約」によって規定されます。承認又は翻訳チームの継続の決断はJoomla翻訳コーディネーションチームによってなされ、そのチームは現行のローカル翻訳チームコーディネータから引き抜かれたボランティアメンバによって構成されます。Joomla翻訳コーディネーションチームはJoomlaコアチームの管理下で仕事を行います。
+
+地域の翻訳コーディネータがJoomla翻訳チームフォーラムへのアクセスを認められたときには、「Joomla翻訳チーム契約」に同意したとみなされます。
+
+「Joomla翻訳チーム契約」に同意することで、規約に違反したときはこの契約は取り消されることに同意したことになります。すなわち、
+  * その翻訳チームはJoomla翻訳チームフォーラムから除外されます。
+  * Joomla.orgと関連サイトの掲載は削除されます。
+  * バッジの使用やJoomla翻訳チームと名乗る権利を失います。
+
+## Joomla! 翻訳チーム契約書 ##
+**Joomla翻訳チームとして認定されるための利用規約**
+
+  1. すべてのランゲージパック、サンプルデータ、およびヘルプファイルのコピーはJoomla翻訳コーディネイトチームが管理するJoomlacode.orgのJoomla翻訳共通リポジトリ で堆積されるものとします。すべての言語パックは公開され、ダウンロードできるようになります。Joomla翻訳チームはダウンロードして利用されるヘルプファイルやサンプルデータの制作において、GNU GPLで具体化された自由と平等のコアJoomlaプロジェクトバリューに従って行動することが推奨されます。
+  1. Joomla翻訳チームメンバー全員、どんな時もJoomlaボランティア行動規範に従うものとします。
+  1. 特定の言語で、協働の精神を維持するものとします。すでに指定したランゲージのJoomla翻訳チームがある場合、新たな貢献者とチームはそのチームに協力を求める必要があります。既存のJoomla翻訳チームは歓迎し、新しい貢献者を奨励しなければなりません。
+  1. 翻訳チームはJoomla翻訳コーディネイトチームと引き続き連絡を取り合います。
+  1. すべての翻訳者は　名前の使用、ロゴの使用、ドメイン名 (参照: http://www.opensourcematters.org/licensing.html) そしてその他の関連ポリシーでOpen Source Mattersトレードマークポリシーを厳守します。
+  1. 特定のランゲージのためのJoomla翻訳チームとしての認定においては、Joomlaプロジェクトはその言語に関連したいかなる文化的、社会的または政治的な主張あるいはその他のランゲージに対する主張も受け入れません。
+  1. すべてのJoomla翻訳チームバッチの利用については、翻訳バッジ利用ポリシー(以下) を、またロゴの使用条件についてはOpen Source Matters ポリシーポリシー (リンク)を遵守しなければならなりません。
+  1. ランゲージパックはGNU GPL v2 あるいはそれ以上のライセンスの下でリリースされ、登録不要でエンドユーザに無償で配布されます。
+  1. すべてのランゲージパックファイル名は次のようになります: `"[ランゲージのISO名]_joomla_lang_[パッケージタイプ].[joomlaバージョン][最終的なパックバージョン]"` where: <ul><li><code>[ランゲージのISO名]</code> = xx-XX  </li><li><code>[パッケージタイプ]</code>. = site, admin, full</li><li><code>[最終的なパックバージョン]</code> = v2, v3, など。</li></ul>  例: xx-XX\_joomla\_lang\_full.1.5.8v2.zip
+  1. ランゲージパックは現在リリース中のJoomlaで最新の状態に保たれるものとします。
+  1. オンラインヘルプファイルはJoomla管理画面を介してアクセスでき、ウェブ上でエンドユーザに無償で利用されなければなりません。ヘルプファイルは Joomla Electronic Documentation ライセンスを取得する必要があり、すべてのライセンス情報を保持します。
+  1. オンラインヘルプは現在リリース中のJoomlaで最新の状態に保たれるものとします。
+  1. ローカライズ版の配布にはJoomla.orgサイト以外はいかなる他のサイトの広告やリンクを含まれてはなりません。 Joomla翻訳チームサイトにはコアサンプルデータが含まれます。これに関しての唯一の例外は、サンプルデータの翻訳で、英語で書かれたリソースやコンテンツへのリンクは関連するランゲージで書かれた特定の具体的なコンテンツを含んだリンクに置き換えることができます。 これらは、ローカルサイトへの一般的なリンクの形式で表示されない場合があります。
+  1. ローカライズ版の配布には　サンプルデータの口調やメッセージがJoomlaプロジェクトの使命、ビジョンまたは価値と一致し、有害ではない限り（例：Joomla標章、Joomlaプロジェクト、あるいはOSM,そのブランド品位、評判、信用のいずれかの価値に有害または損傷）、特別に作成されたサンプルデータを含むことができます。 下品、わいせつな、ポルノ、中傷、あるいは不愉快なコンテンツを含むものは有害扱いです。 (b) 名誉を損なうもの、中傷あるいは名誉を傷つける発言を含んでいる。または (c) 犯罪または犯罪を促す内容、あるいは民事訴訟を生じる内容がある場合。サンプルコンテンツの見直し要求が Open Source Matters によって提示されたなら5実働日以内に対応しなければなりません。
+  1. ローカライズ版のサンプルコンテンツは、翻訳言語にとって意味のあるリソースへのメニューリンクを含んでいるかもしれません。それは Joomla.org のメニューリンクも含まれます。
+  1. ローカライズ版はエンドユーザに対し、登録を必要とせず無料でリリースされます。
+  1. ローカライズ版の配布は: "Joomla `[バージョン番号]` in X" X にはISOコードに対応する言語の公式英語名が入ります。<br>例: en-US だと "Joomla 1.5.9 in English (United States)"<br>
+<ol><li>ローカライズ版の配布は現在のJoomla!の最新リリース日を保持します。Joomlacode.org においてリリースが終了した時は、翻訳チームのサイトでも利用することはできません。<br>
+</li><li>時に応じてこれ等は変更されるかもしれません。変更の通知は Joomla翻訳チームのフォーラムで公開され、opensourcematters.org のサイトで掲示されます。</li></ol>
+
+<h2>バッジ使用ポリシー</h2>
+Joomla翻訳チームは、一定の条件の下でのWebサイト上のJoomla翻訳チームのバッジを使用することがあります。:<br>
+<br>
+<ol><li>商用サイトで使用してはいけません。<br>
+</li><li>Open Source Matters に関する全てのポリシーを守らなければいけません。<br>
+</li><li>バッジは<a href='http://community.joomla.org/translations.html'>http://community.joomla.org/translations.html</a> にリンクしなければなりません。<br>
+</li><li>サイトはJoomlaプロジェクトの公式サイトではないことを明確にしなければなりません。<br>
+</li><li>バッジは何らかの形で変更してはいけません。</li></ol>
+
+<h2>ライセンス</h2>
+<ol><li>コアファイル内のランゲージを翻訳したものは ("ランゲージパック" と "サンプルデータ") GNU GPLの元に派生した作業としてライセンスを扱わなければなりません。<br>
+</li><li>Joomlaの公式コアリリースとして寄稿されるインストールファイルの翻訳は、派生作業としてGNU GPLの元にリリースされ。著作権は、Open Source Mattersと作者の両方にあります。作業はJoomla CMSの主たるクレジットファイルにおいて周知されます。インストール用のXMLファイルに英語で作者名とURLが含まれ。説明には英語またはローカル言語で言語名だけが入ります。<br>
+</li><li>Joomla 1.5.xとそれ以降におけるヘルプ画面の翻訳は特に明記しない限り、Joomla電子文書ライセンス下で管理されます。 このライセンス条項とオリジナルの著作権表示は変更できません。翻訳者の属性が画面またはグローバルなオンラインサイトで提供されるのヘルプ画面に記載されるかもしれませんが。JEDLへのリンクがそのサイトで提供されてる必要があります。<br>
+</li><li>docs.joomla.orgで作成されたオリジナルの英文を翻訳した場合は、特に明記しない限り Joomla電子文書ライセンスの管理下になります。翻訳者は製作者を追記するかもしれませんが。JEDLへのリンクがそのサイトで提供されている必要があります。<br>
+</li><li>ローカライズされた全て配布版は以下のステートメントを表示しなければなりません。: "これはJoomlaの非公式なローカライズ版です。 この版のサポートは作成したチームからのみで、Joomlaプロジェクトおよび Open Source Matters では保証しません。"</li></ol>
+
+
+<h2>Open Source Matters ポリシー</h2>
+Joomlaプロジェクトの利益のためにJoomlaプロジェクトとコミュニティユーザの資産を保有する非営利団体として Open Source Matters が、複数のポリシーによってJoomlaの名前とロゴ、Joomlaソフトウェアラのイセンスとその他の法的および財政的な問題を管理します。完全版のポリシーは <a href='http://opensourcematters.org'>http://opensourcematters.org</a> にあり。Joomla翻訳チームは全ての OSMポリシーに精通し守る義務があります。<br>
+<br>
+Joomla翻訳チームに関係するポリシーは以下の通りです:<br>
+<ul><li>Joomlaロゴの使用に関する全てはOSMの許可が必要です。<br>
+</li><li>Joomlaという綴りの全てのドメイン名を使う場合はOSMの許可が必要です。<br>
+</li><li>Joomlaという名前やそれに類したり拡張した名前を事業に使う場合はOSMの許可が必要です。<br>
+</li><li>名前やロゴを使用する許可についていくつかの点で協定が必要です(これだけに止まるものではない):</li></ul>
+
+<ol><li>Joomlaのトレードマークについてのライセンスは Open Source Matters が独占的に所有します。<br>
+</li><li>Agreement that all Joomla extensions distributed from a licensed site will comply with all Joomla Extensions Directory policies and requirements.<br>
+</li><li>Agreement to certain standards of quality such as not containing material that could be the cause of civic or criminal legal action.<br>
+</li><li>Display of a standard disclaimer similar to:"The Joomla® name is used under limited license from Open Source Matters the worldwide trademark holder. The views opinions presented on this site do not represent the official views of the Joomla Project or of Open Source Matters."<br>
+</li><li>The first prominent use of the Joomla name should include the trademark(™) or registered trademark (®) symbol.<br>
+</li><li>The site logo or name must be larger than the badge or any other logo use.</li></ol>
+
+<ul><li>All software distributed from the site complies with current Joomla Extensions Directory policies for distribution.</li></ul>
+
+<h2>FAQs</h2>
+<i>すべてのJoomla翻訳チームは自身のWebサイトを持つ必要がありますか？</i>
+
+いいえ。翻訳者は単にJoomlaの翻訳共通リポジトリにファイルを寄与することも可能です。<br>
+<br>
+<i>営利企業もまたJoomla 翻訳チームとなることができますか？</i>
+
+はい。しかし、営利企業はビジネスに関連してJoommla翻訳チームのバッジを使用できないし、チームリストにはそのサイトのURLが含まれないかもしれません。もし希望するなら、リストにはそのチームへのコンタクト用のメールアドレスが載るでしょう。<br>
+<br>
+<i>営利企業は自身のWebサイトにJoomla翻訳チームのバッジを表示することができますか？</i>
+
+いいえ。バッジは非営利のサイトにのみ表示できます。<br>
+<br>
+<i>私は非営利のJoomla翻訳チームサイトのオーナーですが、私はまた、生活の資を得る必要があります。サイトの一部を私のビジネスに使うことができますか？</i>
+
+いいえ。あなたはサイトをあなたのビジネスと切り離さなくてはいけません。が、あなたはJoomla翻訳チームのサイトにあなたのビジネスの広告を設置することはできます。もしあなたがフォーラムを持っているなら、あなた名義の営利サイトへのリンクを追加してください。<br>
+<br>
+<i>Joomla翻訳チームのWebサイトに有料広告をおくことはできますか？</i>
+
+はい。<br>
+<br>
+<i>Joomla翻訳チームのWebサイトに私のビジネス・サイトの広告を設置することはできますか？</i>
+
+はい。<br>
+<br>
+<i>Joomla翻訳チームのWebサイトに私のビジネスへのメニューリンクを設置することができますか？</i>
+
+いいえ。<br>
+<br>
+<i>私は、forum.joomla.orgでの私のフォーラム署名において、自身を"Joomla翻訳者"と呼ぶことはできますか？</i>
+
+Joomla翻訳チームのメンバーは以下の表現を使用できます：<br>
+"Member of the <code>[language]</code> Joomla Translation Team"<br>
+あなたはまたcommunity.orgに並ぶあなたのJoomla翻訳チームのURLを追加することが推奨されます：<a href='http://community.joomla.org/translations.html'>http://community.joomla.org/translations.html</a>
+
+<i>私はサイト用とアドミニストレータ用の翻訳を単一のパッケージとしてリリースするべきですか？</i>
+
+必須ではありませんが、サイト用のアドミニストレータ用の単一のパッケージを作成することが、必要であればpdfのフォントも含めて、強く推奨されます。<br>
+<br>
+<i>どこでJoomlaの翻訳のための技術的なガイドラインを見つけることができますか？</i>
+
+技術的なガイドラインはここで入手可能です：<a href='http://docs.joomla.org/Technical_Guidelines_for_Translation'>http://docs.joomla.org/Technical_Guidelines_for_Translation</a>
+
+<i>Joomlaの翻訳を作成あるいは配布するためには、私はJoomla翻訳チームに参加しなくてはいけませんか？</i>
+
+いいえ。しかし、すべての使用許諾、名前の使用、またその他の法的な要件は、あなたのチームがJoomla翻訳チームであろうとなかろうと適用されることを覚えておいてください。<br>
+<br>
+<i>バッジを印刷物に使用することはできますか？</i>
+
+はい。もし、用途が印刷物に関する Open Source Matters の条件付使用ポリシーに適合し、かつ、非営利ならば、ですが。<br>
+<br>
+<i>"翻訳言語にとって意味のあるリソース"とは何を意味しますか？</i>
+
+質問のこれらは、その言語のユーザに有益な情報を提供するリソースのことです。<br>
+<br>
+ノルウェーのディストリビューションを例に取るなら (<a href='http://demo.joomlainorge.no/'>http://demo.joomlainorge.no/</a> )、Recourses menu (Resurser) の下に、ユーザがローカルな情報や翻訳物を見つける助けとなる二、三のリンクが追加されています。これはローカライズされた sample_data.sql に追加されています。最初のリンクはニュースや情報が投稿されるローカルコミュニティサイトのメインサイト- <a href='http://www.joomlainorge.no/'>http://www.joomlainorge.no/</a> へ行きます。このサイトは非営利であり、ドメイン名やその他の承認をOpen Source Mattersより受けています。<br>
+<br>
+二番目のリンクはノルウェーのランゲージパック／ファイルがホストされたサブドメイン - <a href='http://filer.joomlainorge.no/'>http://filer.joomlainorge.no/</a> に行きます。これらは Joomla やサードパーティ製のファイル両方を含み、その幾つかは Web 上の他の場所では入手できません。<br>
+<br>
+<i>なぜランゲージパックがjoomlacode.orgで利用できるようにする必要があるのですか?</i>
+
+他にも理由はありますが、 joomla.org が、ユーザが使いやすく、多言語サイトの作成を希望するWebマスターにとってアクセスしやすい "Download Joomla in your Language" リンクを作れるようにするためです。GNU GPL ライセンスのコードであるため、ランゲージパックはまた、Joomla翻訳チームやその他のサイト上で入手可能となるでしょう。<br>
+<br>
+<i>どうしてヘルプ画面やサンプルデータのコピーがjoomlacode.orgのJoomla翻訳共通リポジトリで堆積しなければいけないのですか?</i>
+
+チームワークのコピーが中央の共通リポジトリに格納されることは、これらのリソースを当てにしているユーザに対して、入手可能の状態が継続しかつ確実とするために重要です。<br>
+<br>
+<i>どうしてチームは公開ダウンロードのためのサンプルデータとヘルプファイルの作成を強く推奨されるのですか?</i>
+
+自由と平等、そして協業は Joomla プロジェクトの基本価値です。これらの価値のひとつの表現がライセンスとしての GNU GPL の使用です。 GNU GPL と JEDL（訳注：the Joomla! Electronic Documentation License） は 配布を要求していませんが、それらはユーザに使用、修正、学習そして共有に対する可用性を提供することを積極的に評価します。それらはまたユーザの階層（class）を区別しません。すべてのJoomla翻訳チームメンバは、ソフトウェアの自由についてより学習することを推奨されます。この意味で、翻訳者たちは、Joomlaプロジェクトを担う開発者やドキュメント作成者と同じ原則の下で稼動することを推奨されます。<br>
+<br>
+<i>どうしてポリシーが改変されるかもしれないのですか?</i>
+
+プロジェクトとそのコミュニティの状況とその必要性は過去に変化してきましたし、また未来にも変更されるでしょう。結果的に、翻訳ポリシーはすべてのプロジェクトポリシーと同様に、変更が必要となることでしょう。この宣誓は、もしポリシーに変更が必要となれば、すべてのコミュニティに対して通知されることを補償します。<br>
+<br>
+<i>ポリシーが改変にはどのようなプロセスを経ますか?</i>
+
+Joomlaプロジェクトはコミュニティメンバ、ワーキンググループメンバ、チームリーダやコーディネータ、コア・チーム、そして、経済的な勧告や法的ば根拠と同じように Open Source Matters の委員会との議論をベースにして、ポリシーを作成します。最終的なポリシーの決定はコアチームあるいは必要に応じてOSMの委員会によって為されます。<br>
+<br>
+<h2>典型的なファイルヘッダ</h2>
+<a href='http://community.joomla.org/translations/typical-language-file-headers.html'>http://community.joomla.org/translations/typical-language-file-headers.html</a> を参照<br>
+<br>
+<br>
+<h2>定義</h2>
+翻訳者とは Joomla を翻訳する翻訳チームあるいは個人を指します。<br>
+<br>
+翻訳チームとは特定の言語の Joomla 翻訳物を作成、あるいはメンテナンスする個人あるいはグループを指します。<br>
+<br>
+Joomla 翻訳チームとは Joomla の内部的な翻訳フォーラムにて表明された翻訳チームを指します。<br>
+<br>
+地域の翻訳コーディネータとは Joomla 翻訳チームフォーラムに参加する、Joomla 翻訳チームの代表者を指します。<br>
+<br>
+ローカライズされたディストリビューションとは特定のランゲージパックでプレインストールされる Joomla のディストリビューションを意味します。それはまた、その言語でのサンプルコンテンツやオンラインヘルプへのリンクを含みます。<br>
+<br>
+Joomla 翻訳コーディネイトチームは Joomla 翻訳リポジトリや Joomla 翻訳チームフォーラムを管理し、また、Joomla プロジェクトのほかのパートとのコミュニケーションに関連した翻訳を調整します。それは地域の翻訳コーディネータたちから選ばれた小さなグループです。<br>
+<br>
+Joomla 翻訳チームバッジとは、もしある種の条件が折り合えば Joomla 翻訳チームであることを証明するために使われるであろう画像ファイルを指します。<br>
+<br>
+Joomla 翻訳チーム契約は Joomla 翻訳チームとして承諾するための契約や条件を定義します。<br>
+<br>
+Joomla 翻訳チーム Web サイトとは、特定の Joomla 翻訳チームの成果物を（単独で、あるいはその他の情報あるいはサービスの提供と一緒に）配布するサイトを指します。<br>
+<br>
+Joomla 翻訳共有リポジトリとは Joomla 翻訳チームが彼らの成果物を預託する Joomlacode.org のエリアを指します。それは Joomla 翻訳コーディネイトチームによって管理されます。<br>
+<br>
+Joomla 翻訳チームフォーラムとは、地域の翻訳コーディネータが使用するため <a href='http://forum.joomla.org'>http://forum.joomla.org</a> にあるアクセス制限されたフォーラムを指します。
